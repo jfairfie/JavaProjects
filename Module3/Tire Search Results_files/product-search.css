@@ -1,0 +1,5436 @@
+/* Tire Search - Begin Combined */
+
+#cpu-discount {
+    color:#878684;
+    display:inline-block;
+    float:right;
+    font-family:gibson; font-style: italic;
+    font-size:12px;
+    line-height:16px;
+    margin-top:15px;
+    text-align:right;
+}
+
+#cpu-discount a {
+    font-family:gibson; 
+    font-size:13px;
+}
+
+.importantNote p strong {
+    font-family: gibson; font-weight: 500;
+    
+}
+
+.fs-cat { padding-top:10px;padding-bottom:10px; }
+
+.optional-interstitial-blk .importantNote .warningIcon {
+    margin-top: 12px;
+}
+
+#filterSection .topFilterOptions form {
+    float: left;
+}
+#filterSection .right.results {
+	width: 760px;
+}
+
+/* PN4334 Search Results*/
+#filterSection .weRecommend {
+  background-color: #EAEAEA;
+	padding: 5px 20px;
+}
+#filterSection .weRecommend p {
+  font-family: gibson;
+}
+.chatCall {
+  width: 230px;
+  margin-top:40px;
+  float: right;
+}
+.chatCall .callIcon {
+  float: left;
+  height: 22px;
+  margin-top: 5px;
+  margin-right: 10px;
+  width: 22px;
+  background: url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -115px -189px transparent;
+}
+.chatCall p {
+  margin: 5px 0 5px 0;
+}
+.chatCallCopy {
+  font-size: 14px;
+  line-height: 18px;
+  padding-left: 33px;
+  font-family: gibson;
+}
+.results .afterListing {
+  margin-top:-25px;
+}
+
+/* PN4334 END */
+
+#filterSection .topFilterOptions ul.social {margin-top:10px;}
+
+.topFilterOptions #wtc div.dropdownButton button {
+    width: 270px;
+}
+
+.search-list-block {
+margin-bottom:20px;
+}
+
+.available-width-fix {
+    text-align:right;
+    width:100px;
+}
+
+#searchResultsLoad .tire-compareBar {
+    background: #a6a6a6;
+    margin-bottom: 12px;
+}
+
+#searchResultsLoad .tire-compareBar h5 {
+    color: #fff;
+    padding: 8px 14px;
+}
+
+#searchResultsLoad .compareBtn {
+    margin-bottom: 12px;
+}
+
+#searchResultsLoad {
+    margin-top: 10px;
+}
+
+#searchResultsLoad .search-no-results h5 {
+    text-transform: none;
+}
+
+#loading {
+width:100%;
+height:200px;
+}
+
+
+/** New Products  and Saved Items**/
+.newmaincontent { width: 800px; margin-top: 10px; float: left; }
+#newItems .resultsContainer {position: relative; margin: 0px 0 40px 0; width: 760px; }
+#newItems .sizes { 
+font-size: 22px;
+padding: 15px 0;
+	}
+.savedFriendList .myAccount > p { width: 730px;}
+.savedFriendList .myAccount .content { float: left;}
+#newItems .detailsText .importantNotes { position: relative; padding-left: 38px; margin: 15px 0px; }
+#newItems .detailsText .importantNotes .icon-warning { background: url(/images/css_elements/retail/icon-sprite.png) no-repeat -1px -1606px; width: 30px; height: 31px; bottom: auto; top: 0px; }
+#newItems .detailsText .importantNotes a { font-size: 13px; line-height: 15px; }
+#newItems .detailsText .importantNotes a:hover { text-decoration: underline; }
+
+.detailsText .importantNotes { position: relative; padding-left: 38px; margin: 15px 0px; }
+.detailsText .importantNotes .icon-warning { background: url(/images/css_elements/retail/icon-sprite.png) no-repeat -1px -1606px; width: 30px; height: 31px; bottom: auto; top: 0px; }
+.detailsText .importantNotes .text-warning { font-family: gibson; font-weight: 500; font-size: 16px; padding-top: 7px; display: inline-block; }
+.detailsText .importantNotes a { font-size: 13px; line-height: 15px; }
+.detailsText .importantNotes a:hover { text-decoration: underline; }
+
+/** Saved Items **/
+.vehiclestyle { font-size: 20px; padding: 10px 0px; }
+.noItems { height: auto; background: #fbfbfb; padding: 20px; }
+.cancelBtn { float: right; }
+.wlmaincontent { width: 760px; margin-top: 10px; float: right; }
+.wlmaincontent.left {float: left;}
+.wlmaincontent .backTo { width: 100%; height: 75px; line-height: 75px; font-size: 20px; }
+.wlmaincontent .backTo a span { font-family: aleo; font-weight: 700; color: #d70000; padding-right: 5px; }
+.wlmaincontent .backTo a:hover { text-decoration: none; }
+.wlmaincontent .backTo a sbold:hover { text-decoration: underline; }
+.TPMSLink { float: left; }
+.resultsContainer { position: relative; margin: 5px 0 40px 0; clear:both; padding-bottom: 0; }
+.resultsContainer .prodWrapper .prodContainer .details .detailsNum .spec .rhpCoverage {width:172px;}
+.section-title { background-color: #eaeaea; border-radius: 2px 2px 0 0; box-sizing: border-box; font-family: gibson; font-weight: 700; text-transform: uppercase;  font-size: 26px; height: 48px; left: 0; line-height: 46px; padding: 0 15px; position: absolute; text-align: left; top: -47px; width: auto; }
+ 
+.vehicleList { height: auto; background: #fbfbfb; padding: 20px; }
+.vehicleList h4 { padding-bottom: 20px; }
+.vehicleWrapper { margin: 8px 0; background: white; border: 1px solid #f0f0f0; font-size: 18px; line-height: 24px; }
+.vehicleWrapper { font-family: gibson; font-weight: 500; padding: 15px; }
+.viewButton { float: right; }
+ .myAccount .vehicleList .vehicleWrapper span { width: 80%;  display: inline-block;}
+.errorContent { width: 750px; float: right; margin-bottom: 5px; }
+ 
+.packageDivider { border-top: 1px solid #CDCCC0; width: 100%; margin: 10px 0px 20px; }
+#packageContentDiv div.prodDetails.savedWheel { border: none; padding: 0; }
+#packageContentDiv div.savedWheelBottom .priceTotal { margin: 0; }
+/** End **/
+
+
+
+
+.results div.container {
+	width: 760px;
+	margin-top: 20px;
+}
+
+/* Performance Category Search Header PN4491 */
+.perfHeader{display: block; background-color: #eaeaea; padding: 14px; position: relative; margin-top: 40px;}
+.firstPerf{margin-top: 0px !important;}
+.perfHeader h6{text-transform: uppercase; display: inline;}
+.perfHeader a{float: right; font-size: 12px;}
+
+/* Mikel's Search Results Block */
+
+
+ul.selectedFilters li.viewBtn {
+    background-color: #cccccc;
+    font-size: 12px !important;
+    cursor: pointer;
+}
+
+.prodWrapper:hover {
+    background-color: #D2D2D2;
+    position: relative;
+}
+
+.prodWrapper {
+    background-color: #EAEAEA;
+    padding: 14px;
+    position: relative;
+}
+
+#tireContentDiv2 .prodWrapper .prodContainer, #tireContentDiv .prodWrapper .prodContainer {
+    padding: 20px 16px 19px 20px;
+}
+
+#packageContentDiv .prodWrapper .prodContainer {
+	padding: 20px 16px 19px 20px;
+}
+
+#tireContentDiv .prodWrapper form .prodContainer .prodImg {
+    margin: 0px 25px 8px 0px;
+}
+
+.wsr .prodWrapper .prodContainer {
+    padding: 20px 16px 19px 20px;
+}
+
+.prodWrapper .prodContainer:first-child {
+    padding: 20px 16px 19px 20px;
+}
+
+.prodWrapper .prodContainer {
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px 16px 19px 20px;
+    width: 100%;
+    float:left;
+}
+
+.prodWrapper .prodContainer .noProdAvailable {
+    padding-bottom: 16px;
+}
+
+.prodWrapper .prodContainer .noProdAvailable sbold {
+    font-size: 16px;
+	line-height: 18px;
+}
+
+.prodWrapper .prodContainer .noProdAvailable hr {
+border: 0;
+height: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+span.prodBrand,
+.prodDetails h2.prodBrand {
+    font-family: gibson;
+    font-size: 14px;
+    line-height: 14px;
+    margin: -2px 0 1px;
+    text-align:left;
+    text-transform: uppercase;
+    color: #19170D;
+}
+
+span.prodBrand span,
+h2.prodBrand span {
+    font-family: gibson; font-weight: 700;
+    
+    font-size: 26px;
+    line-height: 28px;
+    float: left;
+}
+
+.prodDetails .offers .offer h3 {
+    font-family: gibson; font-weight: 500;
+    
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 15px;
+    text-transform: none;
+}
+
+.prodImg {
+    max-width: 196px;
+    width: 190px;
+    float: left;
+    margin: 0px 25px 8px 0px;
+}
+
+.specialProdLabels {
+    line-height: 0;
+    width: 100%;
+    clear: both;
+}
+
+.specialProdLabels span:before {
+    width: 26px;
+    height: 26px;
+    margin-right: 6px;
+    background-size: 26px;
+}
+
+.specialProdLabels .left:first-child {
+    margin-top: 5px;
+    border-top: 1px solid #ddd;
+    padding-top: 8px;
+}
+
+.specialProdLabels .left {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.specialProdLabels .left:last-child {
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.specialProdLabels span {
+    float: none;
+    display: inline-block;
+    line-height: 26px;
+}
+
+
+.itemThumb {
+    /*max-height: 190px;*/
+    max-width: 190px;
+    min-width: 190px;
+}
+
+
+
+.prodDetails {
+    width:69%;
+    float: left;
+}
+
+.prodDetails a:hover {
+    text-decoration: none;
+}
+
+.prodDetails h2 {
+    display: inline-block;
+}
+
+a.tireCat:hover {
+    text-decoration: underline;
+}
+
+a.tireCat {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+
+.prodDetails h2 {
+    font-family: gibson; font-weight: 700;
+    
+    font-size: 26px;
+    line-height: 28px;
+    margin-bottom: 4px;
+    width: 100%;
+    color: #19170D;
+    float: left;
+}
+
+a.aly_products *:hover {
+    color: #2E7993;
+}
+
+.prodDetails a {
+    font-family: gibson;
+    font-size: 16px;
+    line-height: 18px;
+    display: inline-block;
+    
+}
+
+.detailsTop {
+    position: absolute;
+    right: 24px;
+    top: 22px;
+}
+
+.prodCompare {
+    margin-right: 10px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+}
+
+.prodPrice {
+    margin-right: 0;
+    max-width: 171px;
+    padding-top: 6px;
+    width: 35.5%;
+    float:left;
+}
+
+.details {
+    width: 100%;
+    float: left;
+}
+
+#tireContentDiv .details {
+    width: 100%;
+    float: left;
+}
+
+.detailsText {
+    margin-top: 10px;
+    max-width: 263px;
+    width: 50%;
+    float: left;
+}
+#kitComponents .detailsText {
+  width:100%;
+  max-width:100%;
+}
+.detailsText ul {
+    padding: 0px;
+}
+
+.detailsNum {
+    margin: 10px 0 7px;
+    width: 50%;
+    float: right;
+    max-width: 280px;
+    padding-left: 16px;
+    box-sizing: border-box;
+}
+
+.detailsNum .promoprice {
+    letter-spacing: -.3px;
+}
+
+.detailsNum a:hover, .brakeDetailPricing .spec a:hover{
+    text-decoration: underline;
+}
+
+.detailsNum .shippingCost {
+    float: right;
+    font-family: gibson;
+    font-size: 13px;
+    text-align: right;
+    width: 180px;
+    margin-bottom:10px;
+}
+
+
+/*Spare Tire*/
+
+.spareTireOptional a {
+    font-size: 16px;
+    font-family: gibson;
+}
+
+/* Tire Search Interstitial */
+
+.showOverLay {
+    cursor:pointer;
+}
+
+.optional-interstitial-blk-top {
+    padding:43px 0 20px;
+}
+
+.select-diameter-blk-ul {
+    padding: 15px 0px 0px 41px;
+}
+
+.select-diameter-blk-ul li h6{
+    margin-top: 3px;
+}
+
+.select-diameter-blk-ul li h6:first-child{
+    margin-top: 0px;
+}
+.custom-size-blk-p .select-diameter-blk-ul {
+    padding-top: 33px;
+}
+
+.optional-interstitial-blk > h1 {
+    color:#19170d;
+    font-family:gibson; font-weight: 700;
+    
+    font-size:32px;
+    line-height:24px;
+    text-transform:uppercase;
+    padding-bottom:26px;
+}
+
+.optional-interstitial-blk > h3 {
+    font-family:gibson; 
+    font-size:24px;
+    line-height:27px;
+}
+
+.promo-copy-text {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:18px;
+    line-height:30px;
+    padding:4px 0;
+}
+
+.totalCurrency {
+	font-family: gibson;
+	font-size: 15px;
+	vertical-align: top;
+}
+
+/* ITEM TOTAL END*/
+
+.prodAvailable {
+	text-align: right;
+}
+
+.prodDetails .details ul.spec li:after {
+	clear: both;
+	content: "";
+	height: 0;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.right .prodDetails .details .detailsNum li {
+	text-align: right;
+}
+
+.fPrice, .dPrice {
+	font-family: gibson; font-weight: 700;
+	
+	font-size: 24px;
+	line-height: 38px;
+	float: right;
+	color: #19170d;
+}
+
+.dPrice {
+	text-decoration:line-through;
+}
+
+.redT {
+	padding: 12px 8px 0 0;
+}
+
+.prodSpecials {
+	color: #d70000;
+	font-family: gibson;
+	font-size: 16px;
+	line-height: 19px;
+	float: right;
+}
+
+.prodSpecials .finalPrice {
+	margin-top: 0px;
+}
+
+.detailsNum .prodSpecials span:first-child {
+	padding: 4px 0 0 3px;
+}
+
+.spec li.available-text {
+	font-family: gibson !important;
+	font-size: 13px !important;
+	line-height: 14px !important;
+	text-align: right !important;
+	margin-bottom: 0px;
+}
+
+.spec li.available-text a {
+	font-family: gibson; font-weight: 500;
+	font-size: 13px;
+}
+
+.spec li div.delivEstimate {
+	font-family: gibson !important;
+	font-size: 13px !important;
+	line-height: 16px !important;
+	text-align: right !important;
+	/*margin-bottom: 10px;*/
+	display: inline-block;
+	float:right;
+	width:100%;
+}
+
+.prodDetails .spec li div.prodShipping {
+	font-family: gibson !important;
+	font-size: 13px !important;
+	line-height: 16px !important;
+	text-align: right !important;
+	margin-bottom: 0px;
+}
+
+.canDeliver {
+	font-family: gibson; font-style: italic;
+	text-align: right;
+	color: #000;
+	font-size: 12px;
+	line-height: 14px;
+	display: inline-block;
+	float: right;
+	width: 140px;
+	margin-bottom:8px;
+	margin-left:  30px;
+	clear: right;
+}
+
+.canDeliver a {
+	font-family: gibson; font-style: italic;
+	font-size: 12px;
+}
+
+.canDeliver .availability {
+	/* margin-left:3px; */
+	font-family: gibson; font-style: italic;
+	line-height: 14px !important;
+	font-size: 12px !important;
+	margin-top:0px !important;
+}
+
+.mayQualify {
+	font-family: gibson; font-style: italic;
+	font-size: 12px !important;
+	text-align: right;
+	display: inline-block;
+	float: right;
+	width:100%;
+	line-height: 10px;
+	margin-top:8px;
+	margin-bottom:-4px;
+}
+
+.mayQualify a {
+	font-family: gibson; font-style: italic;
+	font-size: 12px !important;
+	text-align: right;
+	display: inline-block;
+}
+
+.delivEstimate a {
+	float: right;
+	font-family: gibson; font-style: italic;
+	font-size: 13px;
+	text-align: right;
+	width: 180px;
+	margin-bottom: 10px;
+}
+
+.prodDetails .spec li div.prodShipping a {
+	font-family: gibson; font-style: italic;
+	font-size: 13px;
+	line-height: 16px;
+}
+
+.seeShipCost a {
+	font-family: gibson; font-style: italic;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: right;
+}
+
+.addToCart {
+	float: right;
+	margin-top: 10px;
+	text-align: right;
+	width: auto;
+}
+
+.wsr .prodWrapper .prodContainer .addToCart {
+	padding-bottom: 0;
+}
+
+.addToCart .errorRed {
+	margin-top: 5px;
+}
+
+.aTC:before {
+	background: url("/images/css_elements/retail/icon-sprite.png") no-repeat -6px -1471px !important;
+}
+/*Spare Tire*/
+
+.spareTireOptional a {
+	font-size: 16px;
+	font-family: gibson;
+}
+
+/* Tire Search Interstitial */
+
+.showOverLay {
+	cursor:pointer;
+}
+
+.optional-interstitial-blk-top {
+	padding:43px 0 20px;
+}
+
+.select-diameter-blk-ul {
+	padding: 15px 0px 0px 41px;
+}
+
+.select-diameter-blk-ul li h6{
+	margin-top: 3px;
+}
+
+.select-diameter-blk-ul li h6:first-child{
+	margin-top: 0px;
+}
+
+.custom-size-blk-p .select-diameter-blk-ul {
+	padding-top: 33px;
+}
+
+.optional-interstitial-blk > h1 {
+	color:#19170d;
+	font-family:gibson; font-weight: 700;
+	
+	font-size:32px;
+	line-height:24px;
+	text-transform:uppercase;
+	padding-bottom:26px;
+}
+
+.optional-interstitial-blk > h3 {
+	font-family:gibson; 
+	font-size:24px;
+	line-height:27px;
+}
+
+.promo-copy-text {
+	font-family:gibson; font-weight: 500;
+	
+	font-size:18px;
+	line-height:30px;
+	padding:4px 0;
+}
+
+.optional-interstitial-blk note {
+    font-family:gibson; font-style: italic;
+    font-size:16px;
+    line-height:21px;
+    display:block;
+}
+
+note.need-help-note {
+    padding: 4px 0 0 41px;
+}
+
+
+.select-diameter-blk {
+    padding:18px 0 0;
+}
+
+.select-diameter-blk .title {
+    padding:15px 0 43px;
+}
+
+.select-diameter-blk-ul li {
+    border-left:4px solid #eaeaea;
+    float:left;
+    width:100%;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    margin:21px 0;
+    padding:0 0 0 23px;
+}
+
+.select-diameter-blk-ul li h3 {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:18px;
+    line-height:19px;
+}
+
+.select-diameter-blk-ul li h3 span {
+    font-family:gibson; 
+    font-size:14px;
+    line-height:19px;
+}
+
+.select-diameter-blk-ul li h4.loadrng {
+    font-size:17px;
+    font-family:gibson; 
+}
+
+.select-diameter-blk-ul li h4.loadrng b {
+    font-family:gibson; font-weight: 500;
+    
+}
+
+.select-diameter-blk .equipSizep {
+    margin-top:9px;
+    margin-right:26px;
+    display:inline-block;
+}
+
+.select-diameter-blk .equipSizep a {
+    width:212px;
+    font-family: gibson;
+    line-height: 22px;
+}
+
+.select-diameter-blk .equipSizep a:hover {
+    background-color: #3C3837;
+    text-decoration: none;
+}
+
+.select-diameter-blk .equipSize {
+    background-color: #d70000;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: white;
+    display: table-cell;
+    font-family: gibson;
+    font-size: 14px;
+    height: 57px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 7px 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 212px;
+}
+
+.select-diameter-blk .equipSizep .equipSize sbold {
+    display: inline-block;
+    font-family: gibson; font-weight: 500;
+    
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 0;
+}
+
+.optional-interstitial-blk .divider {
+    width:100%;
+    position:relative;
+    float:left;
+    max-width:450px;
+    margin:38px 0 35px 69px;
+}
+
+.divider .lineLeft {
+    width:50%;
+    border:none;
+    height:1px;
+    background:#cfcfcf;
+    float:left;
+    display:inline;
+    margin:10px 0;
+}
+
+.divider .lineRight {
+    width:50%;
+    border:none;
+    height:1px;
+    background:#cfcfcf;
+    float:right;
+    display:inline;
+    margin:10px 0;
+}
+
+.divider .or {
+    color:#FFF;
+    display:inline;
+    text-align:center;
+    width:34px;
+    height:34px;
+    background:#5d5959;
+    border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    -ms-border-radius:50px;
+    position:absolute;
+    left:0;
+    right:0;
+    top:-30px;
+    font-family:gibson; font-weight: 500; font-style: italic;
+    
+    font-size:14px;
+    line-height:20px;
+    border:21px solid #fff;
+    margin:0 auto;
+}
+
+.divider .or span {
+    left:0;
+    position:absolute;
+    right:0;
+    margin:8px auto 0;
+}
+
+.dontsee-tire-blk {
+    width:660px;
+    max-width:660px;
+    border-bottom:1px solid #cecece;
+    border-top:1px solid #cecece;
+    padding:22px 0;
+}
+
+.dontsee-tire-blk a.openct {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:22px;
+    line-height:24px;
+    color:#19170d;
+    display:block;
+    padding-left:45px;
+    position:relative;
+}
+
+.dontsee-tire-blk a.openct:after {
+    content:'';
+    width:24px;
+    height:24px;
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -492px;
+    position:absolute;
+    top:0;
+    left:2px;
+}
+
+.dontsee-tire-blk a.openct.closect:after {
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -548px;
+}
+
+.dontsee-tire-blk a.openct.closect:after {
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -548px;
+}
+
+.custom-size-blk-p {
+    margin-left:41px;
+    padding:27px 0 0;
+}
+
+.custom-size-blk-p note.need-help-note {
+    margin-bottom:30px!important;
+    padding:4px 0 0 41px !important;
+}
+
+.custom-size-blk-p .lab1 {
+    font-family:gibson; 
+    font-size:18px;
+    line-height:20px;
+}
+
+.custom-size-blk-p .custom-size-blk {
+    clear:both;
+    border-left:4px solid #eaeaea;
+    float:left;
+    width:100%;
+    font-family:gibson; 
+    font-size:18px;
+    line-height:20px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    margin:28px 0 39px;
+    padding:0 0 0 23px;
+}
+
+.custom-size-blk .lab2 {
+    padding:0 0 5px;
+}
+
+.custom-size-blk .lab2 i {
+    font-family:gibson; font-style: italic;
+    font-size:16px;
+    line-height:24px;
+}
+
+.custom-size-blk .add-vehicle-fields {
+padding-bottom: 15px;
+}
+
+.custom-size-blk .custome-addbutton {
+max-width:329px;
+background-color:#eaeaea;
+padding:0 15px;
+}
+
+.custome-addbutton-title {
+padding-left:46px;
+}
+
+.custome-addbutton .custome-addbutton-fields {
+width:100%;
+padding:0;
+}
+
+.custome-addbutton select {
+width:102px!important;
+}
+
+
+ul.spec li:after {
+    clear: both;
+    content: "";
+    height: 0;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+ul.spec li:first-child {
+    margin-bottom: 5px;
+}
+
+ul.spec li {
+    font-family: gibson;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.labelDetail {
+    font-family: gibson;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.labelSize {
+    font-family: gibson; font-weight: 700;
+    
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.compare {
+    float: right;
+}
+
+
+/*Spare Tire*/
+
+.spareTireOptional a {
+    font-size: 16px;
+    font-family: gibson;
+}
+
+/* Tire Search Interstitial */
+
+.showOverLay {
+    cursor:pointer;
+}
+
+.optional-interstitial-blk-top {
+    padding:43px 0 20px;
+}
+
+.select-diameter-blk-ul {
+    padding: 15px 0px 0px 41px;
+}
+
+.select-diameter-blk-ul li h6{
+    margin-top: 3px;
+}
+
+.select-diameter-blk-ul li h6:first-child{
+    margin-top: 0px;
+}
+.custom-size-blk-p .select-diameter-blk-ul {
+    padding-top: 33px;
+}
+
+.optional-interstitial-blk > h1 {
+    color:#19170d;
+    font-family:gibson; font-weight: 700;
+    
+    font-size:32px;
+    line-height:24px;
+    text-transform:uppercase;
+    padding-bottom:26px;
+}
+
+.optional-interstitial-blk > h3 {
+    font-family:gibson; 
+    font-size:24px;
+    line-height:27px;
+}
+
+.promo-copy-text {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:18px;
+    line-height:30px;
+    padding:4px 0;
+}
+
+.optional-interstitial-blk note {
+    font-family:gibson; font-style: italic;
+    font-size:16px;
+    line-height:21px;
+    display:block;
+}
+
+note.need-help-note {
+    padding: 4px 0 0 41px;
+}
+
+
+.select-diameter-blk {
+    padding:18px 0 0;
+}
+
+.select-diameter-blk .title {
+    padding:15px 0 43px;
+}
+
+.select-diameter-blk-ul li {
+    border-left:4px solid #eaeaea;
+    float:left;
+    width:100%;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    margin:21px 0;
+    padding:0 0 0 23px;
+}
+
+.select-diameter-blk-ul li h3 {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:18px;
+    line-height:19px;
+}
+
+.select-diameter-blk-ul li h3 span {
+    font-family:gibson; 
+    font-size:14px;
+    line-height:19px;
+}
+
+.select-diameter-blk-ul li h4.loadrng {
+    font-size:17px;
+    font-family:gibson; 
+}
+
+.select-diameter-blk-ul li h4.loadrng b {
+    font-family:gibson; font-weight: 500;
+    
+}
+
+.select-diameter-blk .equipSizep {
+    margin-top:9px;
+    margin-right:26px;
+    display:inline-block;
+}
+
+.select-diameter-blk .equipSizep a {
+    width:212px;
+    font-family: gibson;
+    line-height: 22px;
+}
+
+.select-diameter-blk .equipSizep a:hover {
+    background-color: #3C3837;
+    text-decoration: none;
+}
+
+.select-diameter-blk .equipSize {
+    background-color: #d70000;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: white;
+    display: table-cell;
+    font-family: gibson;
+    font-size: 14px;
+    height: 57px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 7px 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 212px;
+}
+
+.select-diameter-blk .equipSizep .equipSize sbold {
+    display: inline-block;
+    font-family: gibson; font-weight: 500;
+    
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 0;
+}
+
+.optional-interstitial-blk .divider {
+    width:100%;
+    position:relative;
+    float:left;
+    max-width:450px;
+    margin:38px 0 35px 69px;
+}
+
+.divider .lineLeft {
+    width:50%;
+    border:none;
+    height:1px;
+    background:#cfcfcf;
+    float:left;
+    display:inline;
+    margin:10px 0;
+}
+
+.divider .lineRight {
+    width:50%;
+    border:none;
+    height:1px;
+    background:#cfcfcf;
+    float:right;
+    display:inline;
+    margin:10px 0;
+}
+
+.divider .or {
+    color:#FFF;
+    display:inline;
+    text-align:center;
+    width:34px;
+    height:34px;
+    background:#5d5959;
+    border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    -ms-border-radius:50px;
+    position:absolute;
+    left:0;
+    right:0;
+    top:-30px;
+    font-family:gibson; font-weight: 500; font-style: italic;
+    
+    font-size:14px;
+    line-height:20px;
+    border:21px solid #fff;
+    margin:0 auto;
+}
+
+.divider .or span {
+    left:0;
+    position:absolute;
+    right:0;
+    margin:8px auto 0;
+}
+
+.dontsee-tire-blk {
+    width:660px;
+    max-width:660px;
+    border-bottom:1px solid #cecece;
+    border-top:1px solid #cecece;
+    padding:22px 0;
+}
+
+.dontsee-tire-blk a.openct {
+    font-family:gibson; font-weight: 500;
+    
+    font-size:22px;
+    line-height:24px;
+    color:#19170d;
+    display:block;
+    padding-left:45px;
+    position:relative;
+}
+
+.dontsee-tire-blk a.openct:after {
+    content:'';
+    width:24px;
+    height:24px;
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -492px;
+    position:absolute;
+    top:0;
+    left:2px;
+}
+
+.dontsee-tire-blk a.openct.closect:after {
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -548px;
+}
+
+.dontsee-tire-blk a.openct.closect:after {
+    background:url(/images/css_elements/retail/icon-sprite.png) no-repeat -6px -548px;
+}
+
+.custom-size-blk-p {
+    margin-left:41px;
+    padding:27px 0 0;
+}
+
+.custom-size-blk-p note.need-help-note {
+    margin-bottom:30px!important;
+    padding:4px 0 0 41px !important;
+}
+
+.custom-size-blk-p .lab1 {
+    font-family:gibson; 
+    font-size:18px;
+    line-height:20px;
+}
+
+.custom-size-blk-p .custom-size-blk {
+    clear:both;
+    border-left:4px solid #eaeaea;
+    float:left;
+    width:100%;
+    font-family:gibson; 
+    font-size:18px;
+    line-height:20px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    margin:28px 0 39px;
+    padding:0 0 0 23px;
+}
+
+.custom-size-blk .lab2 {
+    padding:0 0 5px;
+}
+
+.custom-size-blk .lab2 i {
+    font-family:gibson; font-style: italic;
+    font-size:16px;
+    line-height:24px;
+}
+
+.custom-size-blk .add-vehicle-fields {
+padding-bottom: 15px;
+}
+
+
+
+.custom-size-blk .custome-addbutton {
+max-width:329px;
+background-color:#eaeaea;
+padding:0 15px;
+}
+
+.custome-addbutton-title {
+padding-left:46px;
+}
+
+
+.custome-addbutton .custome-addbutton-fields {
+width:100%;
+padding:0;
+}
+
+
+
+
+
+.interstitial-popups {
+background:#fff;
+width:568px;
+}
+
+.interstitial-popups .popupPad {
+padding:34px;
+}
+
+.popupPad h3 {
+font-family:gibson; font-weight: 500;
+
+font-size:24px;
+line-height:20px;
+color:#19170d;
+padding:0 0 12px;
+}
+
+.popupPad p {
+font-family:gibson; 
+font-size:18px;
+line-height:20px;
+padding-bottom:20px;
+}
+
+.popupPad img {
+margin-bottom:20px;
+width:508px;
+height:170px;
+}
+
+.popupPad a span {
+color:red;
+font-family:aleo; font-weight: 700;
+font-size:19px;
+line-height:15px;
+margin-left:0;
+vertical-align:middle;
+}
+
+
+
+
+
+.pagination .pagination_navigation {
+    margin-left: 43px !important;
+}
+
+#viewPerPageSelect {
+    max-width: 64px !important;
+    min-width: 64px !important;
+    width: 100% !important;
+    padding: 10px 0px 10px 0px !important;
+}
+
+#viewPerPageSelect option {
+    min-width: 62px;
+    max-width: 62px;
+    padding-left: 10px;
+}
+
+.pagination_results_count .dropdownButton select {
+    padding: 10px 0px 10px 10px !important;
+}
+
+
+
+.spec .available-text .soldOut {
+  color:#d70000 !important;
+  font-size: 18px !important;
+  font-family: gibson; font-weight: 500;
+  
+  line-height: 17px;
+  text-align: right;
+}
+
+.equipSizep .soldOut {
+    color:#d70000 !important;
+  font-size: 18px !important;
+  font-family: gibson; font-weight: 500;
+  
+  line-height: 17px;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.spec .soldOut {
+    float: right;
+    text-align: right;
+    display: inline-block;
+	margin-bottom:25px;
+}
+
+/* Wheel Search - Begin Combined */
+
+#colorPicker ul {
+  padding: 0px !important;
+}
+
+#colorPicker a.redNHBtn:link, #colorPicker a.redNHBtn:visited, #colorPicker a.redNHBtn:active, #colorPicker a.redNHBtn:focus, #colorPicker a.redNHBtn:hover {
+  padding: 2px 10px !important;
+  margin-left: -9px;
+}
+
+a.greyHover {
+  padding: 2px 10px !important;
+  margin-left: -10px !important;
+}
+
+
+
+.interstitial-popups {
+background:#fff;
+width:568px;
+}
+
+.interstitial-popups .popupPad {
+padding:34px;
+}
+
+.popupPad h3 {
+font-family:gibson; font-weight: 500;
+
+font-size:24px;
+line-height:20px;
+color:#19170d;
+padding:0 0 12px;
+}
+
+.popupPad p {
+font-family:gibson; 
+font-size:18px;
+line-height:20px;
+padding-bottom:20px;
+}
+
+.popupPad img {
+margin-bottom:20px;
+width:508px;
+height:170px;
+}
+
+.popupPad a span {
+color:red;
+font-family:aleo; font-weight: 700;
+font-size:19px;
+line-height:15px;
+margin-left:0;
+vertical-align:middle;
+}
+
+
+
+/*After Rebate*/
+
+#rebateCCDisplay {
+width: 450px;
+}
+
+.promoprice.gyRebate {
+    clear: both;
+    width: 400px;
+	margin: -5px 0 12px;
+}
+
+.promoprice {
+    text-align: right;
+    width: 100%;
+    font-family: gibson; font-style: italic;
+	margin: 0 0 5px;
+}
+
+.wheelDetail .promoprice {
+    width: 100%;
+}
+
+
+.spec .available-text .soldOut {
+  color:#d70000 !important;
+  font-size: 18px !important;
+  font-family: gibson; font-weight: 500;
+  
+  line-height: 17px;
+  text-align: right;
+}
+
+.equipSizep .soldOut {
+    color:#d70000 !important;
+  font-size: 18px !important;
+  font-family: gibson; font-weight: 500;
+  
+  line-height: 17px;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.spec .soldOut {
+    float: right;
+    text-align: right;
+    display: inline-block;
+	margin-bottom:25px;
+}
+
+/* Wheel Search - Begin Combined */
+
+#colorPicker ul {
+  padding: 0px !important;
+}
+
+
+#colorPicker a.redNHBtn:link, #colorPicker a.redNHBtn:visited, #colorPicker a.redNHBtn:active, #colorPicker a.redNHBtn:focus, #colorPicker a.redNHBtn:hover {
+  padding: 2px 10px !important;
+  margin-left: -9px;
+}
+
+a.greyHover {
+  padding: 2px 10px !important;
+  margin-left: -10px !important;
+}
+
+.vehicleNavDetail a {
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.wheelDetailsNum .qtyPrice {
+	height: 40px;
+}
+
+.wheelDetailsNum ul.spec li:first-child {
+  margin-bottom: 0px;
+}
+
+.wheelDetailsText .dropdownButton button {
+  width: 100%;
+}
+
+.new-i {
+    padding-left: 19px !important;
+    position: relative;
+}
+
+.tabbedPanels {
+	width: 100%;
+	float: left;
+}
+
+.tabbedPanels .priceTotal {margin-top: 10px;}
+.tabbedPanelsTabGroup {
+    border-bottom: 1px solid #A6A6A6;
+    margin-bottom: 22px;
+    width: 100%;
+    float: left;
+}
+
+.tabbedPanelsTabGroup .tabbedPanelsTab.active {
+    border-bottom: 4px solid #d70000;
+}
+
+.tabbedPanelsTabGroup .tabbedPanelsTab {
+    cursor: pointer;
+    float: left;
+    font-family: gibson; font-weight: 500;
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    min-width: 80px;
+    text-align: center;
+    width: auto;
+}
+
+.tabbedPanelsTab .addIcon {
+    background-color: #A6A6A6;
+    border-radius: 125px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: gibson;
+    font-size: 16px;
+    height: 13px;
+    line-height: 13px;
+    margin-left: 5px;
+    text-align: center;
+    width: 13px;
+    behavior: url(/scripts/PIE.htc);
+}
+
+.tabbedPanelsContent .promotionDetails {
+	 float: left;
+}
+
+.tabbedPanelsContent {
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+.prodContainer .tabbedPanelsContent .details {
+  border-bottom: 1px solid #cecece;
+  padding-bottom: 15px;
+}
+
+.tabbedPanelsContent .rear {
+  padding: 15px 0px;
+  border-bottom: 1px solid #CECECE;
+}
+
+.noRear {
+    clear:both;
+    padding: 15px 0px;
+    border-bottom: 1px solid #CECECE;
+    margin-bottom: 10px;
+}
+
+.noRear ul {
+    margin-bottom: 5px;
+}
+
+.wheelDetail .noRear {
+    border-bottom: none;
+    border-top: 1px solid #CECECE;
+    padding: 23px 0 15px 0;
+}
+
+.wheelDetail .noRear ul {
+    margin-bottom: 10px;
+}
+
+.wheelDetail .noFront {
+    clear:both;
+    padding: 0px;
+    border-bottom: none;
+}
+
+.wheelDetail .noFront ul {
+    margin-bottom: 10px; 
+}
+
+.wheelDetailsText {
+    margin-top: 0 !important;
+}
+
+.wheelDetailsText {
+    margin-top: 20px;
+    max-width: 234px;
+    width: 61.2%;
+    float: left;
+}
+
+.wheelDetailsText ul.spec {
+  margin-top: 10px;
+}
+.wheelDetailsText ul.spec form {
+	display: inline-block;
+	vertical-align: middle;
+	}
+.wheelDetailsText ul.spec form .dropdownButton {
+	width: 200px;
+	}
+
+
+.tabbedPanelsContentGroup .details .wheelDetailsText ul li {
+    font-family: gibson;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.wheelDetailsNum {
+  margin-right: 0;
+  margin-top: 6px;
+  max-width: 205px;
+  width: 43%;
+  float: right;
+}
+
+.prodImg a img {
+  height: auto;
+  min-width: 190px;
+}
+
+
+.wheelsDetalsNum li.avail {
+    font-family: gibson;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+}
+
+.details.rearWheel {
+    border-top: 1px solid #CECECE;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+
+.wheelTileBottom {
+	width: 100%;
+	float: left;
+}
+
+.tileViewOnVehicle {
+	width:60%;
+	float:left;
+}
+
+.wheelTileBottom .priceTotal {
+  margin-right: 0px !important;
+}
+
+a.viewVehicle:before {
+    background: url(/images/css_elements/retail/icon-sprite.png) no-repeat 0 -1812px;
+    content: "";
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 24px;
+}
+
+a.viewVehicle {
+    color: #2E7993;
+    display: inline-block;
+	font-family: gibson;
+	font-size: 16px;
+    line-height: 16px;
+    margin-top: 12px;
+    padding-left: 28px;
+    position: relative;
+}
+a:hover.viewVehicle.applyWheels{
+	text-decoration:underline;
+}
+
+.purBtn {
+    background: url(/images/css_elements/retail/icon-sprite.png) no-repeat -32px -1921px #d70000;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-family: gibson; font-weight: 500;
+    font-size: 16px;
+    line-height: 14px;
+    min-width: 150px;
+    padding: 13px 20px;
+    position: relative;
+    text-indent: 25px;
+    behavior: url(/scripts/PIE.htc);
+}
+
+
+
+
+/*New Products */
+#newWheelsContent #wheelContentDiv .details { border-bottom:1px solid #cecece; padding-bottom: 15px;}
+#newWheelsContent #wheelContentDiv .priceTotal {margin-top: -20px;}
+/*End*/
+
+.wheelDetailsText .spec .dropdownButton select {
+  min-width: 200px;
+}
+
+
+
+
+.optRearFitmentToggle {
+  font-size:12px;
+}
+
+.optRearFitmentToggle span a {
+  font-family: gibson; font-weight: 500; 
+  font-size: 12px;
+}
+.optRearFitmentToggle p {
+	font-size: 15px;
+	margin: 0;
+	}
+.optRearFitmentToggle span {
+	font-family: gibson;
+	}
+	
+
+.wheelDetailsText {
+    margin-top: 0 !important;
+}
+
+.wheelDetailsText ul.spec {
+  margin-top: 10px;
+}
+.wheelDetailsText ul.spec form {
+	display: inline-block;
+	vertical-align: middle;
+	}
+.wheelDetailsText ul.spec form .dropdownButton {
+	width: 100px;
+	}
+
+.wheelDetailsText {
+    margin-top: 20px;
+    max-width: 234px;
+    width: 45%;
+    float: left;
+}
+	
+
+.tabbedPanelsContentGroup .details .wheelDetailsText ul li {
+    font-family: gibson;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.wheelDetailsNum {
+  margin-right: 0;
+  margin-top: 6px;
+  max-width: 205px;
+  width: 43%;
+  float: right;
+}
+
+.prodImg a img {
+  height: auto;
+  width: 190px;
+}
+
+.wheelsDetalsNum li.avail {
+    font-family: gibson;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+}
+
+.details.rearWheel {
+    border-top: 1px solid #CECECE;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+
+.wheelTileBottom {
+	width: 100%;
+	float: left;
+}
+
+.tileViewOnVehicle {
+	width:60%;
+	float:left;
+}
+
+.wheelTileBottom .priceTotal {
+  margin-right: 0px !important;
+}
+
+a.viewVehicle:before {
+    background: url(/images/css_elements/retail/icon-sprite.png) no-repeat 0 -1812px;
+    content: "";
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 24px;
+}
+
+a.viewVehicle {
+    color: #2E7993;
+    display: inline-block;
+	font-family: gibson;
+	font-size: 16px;
+    line-height: 16px;
+    margin-top: 12px;
+    padding-left: 28px;
+    position: relative;
+}
+a:hover.viewVehicle.applyWheels{
+	text-decoration:underline;
+}
+
+.purBtn {
+    background: url(/images/css_elements/retail/icon-sprite.png) no-repeat -32px -1921px #d70000;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-family: gibson; font-weight: 500;
+    font-size: 16px;
+    line-height: 14px;
+    min-width: 150px;
+    padding: 13px 20px;
+    position: relative;
+    text-indent: 25px;
+    behavior: url(/scripts/PIE.htc);
+}
+
+/* Filter option Styles */
+
+#filterSection {
+margin-top:13px;
+}
+
+#filterSection > div.wrapper {
+    padding: 0px;
+}
+
+#filterSection header {
+  font-family:gibson; font-weight: 500;
+  font-size:22px;
+  line-height:22px;
+  padding-bottom:11px;
+  width:100%;
+  z-index:2;
+}
+
+#filterSection header.topFilterOptions {
+  margin-bottom:6px;
+  padding-bottom:10px;
+  position:relative;
+  min-height:40px;
+  border-bottom: 1px solid #CECECE;
+}
+
+li#new_total_li span.text {
+	font-family:gibson; font-weight: 500;
+}
+
+li#SPECIAL_Count_LI span.text {
+	font-family:gibson; font-weight: 500;
+}
+
+li#special_total_li span.text {
+	font-family:gibson; font-weight: 500;
+}
+
+
+#filterSection header.topFilterOptions .compareBtn {
+  font-family:gibson; font-weight: 500;
+  font-size:16px;
+  line-height:28px;
+  display:inline-block;
+  background-color:#fff;
+  border-radius:50px;
+  -moz-border-radius:50px;
+  -webkit-border-radius:50px;
+  -ms-border-radius:50px;
+  text-align:center;
+  border:1px solid #cecece;
+  color:#d70000;
+  text-transform:none;
+  padding:0 13px;
+  behavior: url(/scripts/PIE.htc);
+}
+
+#filterSection header.topFilterOptions .compareBtn, .compareBtn {
+  font-family:gibson; font-weight: 500;
+  font-size:16px;
+  line-height:28px;
+  display:inline-block;
+  background-color:#fff;
+  border-radius:50px;
+  -moz-border-radius:50px;
+  -webkit-border-radius:50px;
+  -ms-border-radius:50px;
+  text-align:center;
+  border:1px solid #cecece;
+  color:#d70000;
+  text-transform:none;
+  padding:0 13px;
+  margin-top: 10px;
+  behavior: url(/scripts/PIE.htc);
+}
+
+#filterSection header.topFilterOptions .compareBtn:hover, #filterSection header.topFilterOptions .compareBtn, .compareBtn:hover {
+  background-color:#2f2f2f;
+  color:#fff;
+  border-color:#2f2f2f;
+  text-decoration: none;
+}
+
+
+
+/*New Products */
+#newWheelsContent #wheelContentDiv .details { border-bottom:1px solid #cecece; padding-bottom: 15px;}
+#newWheelsContent #wheelContentDiv .priceTotal {margin-top: -20px;}
+/*End*/
+
+.wheelDetailsText .spec .dropdownButton select {
+  min-width: 100px;
+}
+
+
+
+/*------Saved Wheels ----- */
+div.prodDetails.savedWheel {
+  border-bottom: 1px solid #CECECE;
+  padding-bottom: 15px;
+}
+
+.qtyPrice .dropdownButton {
+    width: 54px;
+    display: inline-block;
+    flex: 1;
+}
+
+.detailsNum .specHead {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.savedWheelBottom .tileViewOnVehicle {
+	width: 50%;
+}
+
+div.savedWheelBottom .priceTotal {
+	margin-top: 10px;
+	width: 200px;
+}
+
+div.savedWheelBottom .promotionDetails {
+	float: left;
+}
+
+div.savedWheelBottom .promotionDetails a{
+	line-height: 18px;
+}
+
+div.savedWheelBottom .promotionDetails a:hover{
+	text-decoration: none;
+}
+
+div.savedWheelBottom .promoprice{
+	font-size: 13px;
+}
+
+.wheelDetailsText .promotionDetails{
+	margin-top: 30px;
+	border-top: 1px solid #CECECE;
+}
+
+.recTireSize sbold {display: block;}
+.savedWheelBottom { width: 69%; float: right;}
+#savedItems .contentHeader { float: none;}
+#savedItems .resultsContainer {margin: 75px 0 40px;}
+#newItems .TabbedPanels .TabbedPanelsContent { width: 760px;}
+.savedItemsVehic { width: 750px;}
+#savedItems .productRating, #newItems .productRating { white-space: normal;}
+#newItems .TabbedPanels .TabbedPanelsContent .breakdown h4 {font-size: 12px; line-height: 12px;}
+
+/*------Saved Wheels End ----- */
+
+/*-- Center Caps --*/
+
+.optHw-container { width:755px; font-size: 0px; letter-spacing: 0px; word-spacing: 0px; }
+.optHw-left { display:inline-block; width: 180px }
+.optHw-mid { display:inline-block; width: 570px; vertical-align:top }
+.optHw-right { display:inline-block; width: 160px; vertical-align:top; margin-top:38px }
+
+/* --------- Winter Wheels ------ */
+
+.results .importantNote > p + hr + p {
+	float: right;
+}
+
+.results .importantNote p {
+	display: inline-block;
+	vertical-align:middle;
+	width: 725px;
+	padding: 0;
+	margin: 5px;
+	color: #7e7e7e;
+	font-size: 13px;
+}
+
+.results .importantNote p {
+	display: inline-block;
+	vertical-align:middle;
+	width: 715px;
+	padding-left: 3px;
+}
+
+.results .importantNote .warningIcon { display: inline-block;}
+
+/* No Vehicle Image */
+.noVehicle {
+	background-color: #eaeaea;
+	width: 732px;
+	padding: 0px 14px;
+	display: inline-block;
+}
+.noVehicle span{
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
+	font-family: gibson; font-weight: 500;
+	font-size: 16px;
+	line-height: 22px;
+	margin-bottom: 4px;
+}
+.noVehicle p{
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 10px;
+	width: 608px;
+	font-family: gibson;
+	font-size: 13px;
+	line-height: 15px;
+	margin-bottom: 15px;
+}
+.redTitle {
+	color: #D70000;
+}
+
+.winterWheelsExplained .contentSubHeader { margin-bottom: 4px;}
+.winterWheelsExplained ul { margin-bottom: 15px;  margin-left:10px; font-size: 16px;
+    line-height: 22px; }
+
+
+/* Product Compare - Begin Combined */
+
+
+body > .wrapper {
+			position: relative;
+		}
+.nameBarSpacer {
+	height: 91px;
+}
+.nameBar {
+	position: absolute;
+	background: #fff;
+	top: 0;
+	z-index: 3;
+}
+.tireNames {
+display: block;
+border-bottom: 1px solid #ddd;
+margin-left: 239px;
+position: relative;
+border-right: 1px solid #ddd;
+border-left: 1px solid #ddd;
+}
+.tireNames:before {
+	content: "";
+	display: block;
+	height: 100%;
+	width: 1px;
+	background: #fff;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: 1;
+}
+		div.title a { color: #19170d; }
+		div.title a:hover { text-decoration: none; color: #2e7993; }
+.tireNames .sTitle {
+    font-family: gibson;
+    font-size: 11px;
+    line-height: 11px;
+    text-transform: uppercase;
+    word-wrap: break-word;
+}
+.tireNames .bTitle {
+    font-family: gibson; font-weight: 700;
+    font-size: 18px;
+    line-height: 15px;
+    text-transform: uppercase;
+    word-wrap: break-word;
+}
+.nameBox, .nameBox2 {
+	float: left;
+	width: 190px;
+	padding: 0 22px 5px;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.nameBox:after, .nameBox2:after {
+	content: "";
+	display: block;
+	height: 100%;
+	width: 1px;
+	background: #ddd;
+	position: absolute;
+	right: -1px;
+	top: 0;
+}
+
+.nameBox2 {
+	width: 380px;
+	min-height: 44px;
+}
+
+.close-image {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  z-index: 3px;
+  background: url("/images/css_elements/retail/icon-sprite.png") -65px -1765px;
+  top: -8px;
+  right: 5px;
+}
+.nameBox .title {
+	position:relative;
+	margin-bottom: 15px;
+}
+.counter {
+    display: block;
+    font-size: 11px;
+    margin-top: 5px;
+    position: absolute;
+    right: 6px;
+	bottom: 4px;
+    text-align: right;
+}
+
+.controls .next {
+    background: url("/images/css_elements/retail/icon-sprite.png") repeat scroll -101px -1690px;
+    display: inline-block;
+    height: 30px;
+    position: absolute;
+    right: -43px;
+    top: 14px;
+    width: 30px;
+}
+
+.controls .prev {
+    background: url("/images/css_elements/retail/icon-sprite.png") repeat scroll -54px -1690px;
+    display: inline-block;
+    height: 30px;
+    left: -43px;
+    position: absolute;
+    top: 14px;
+    width: 30px;
+}
+.namesOuter {
+width: 759px;
+overflow: hidden;
+padding-top: 10px;
+margin-top: -10px;
+position: relative;
+}
+
+.namesInner {
+width: 1600px;
+}
+
+ body div.imagesWrapper ul.comparesliderUL { margin:0; padding:0; }
+.productsImages{max-width: 760px;}
+ body div.imagesWrapper    { overflow:hidden; position:relative; width:100%;}
+
+
+.compareWrapper {
+  width: 1000px;
+  border-top: 1px solid #cfcfcf;
+  border-right: 1px solid #d9d9d9;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  height: auto;
+}
+
+.compareWrapper * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: inherit; 
+}
+
+.compareWrapper .productsWrapper {
+  height: auto;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 239px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .productsIndicator {
+  width: 100%;
+  min-height: 466px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .productsIndicator .title {
+  font-family: gibson;
+  font-size: 11px;
+  line-height: 24px;
+  float: left;
+  display: block;
+  margin-top: 20px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .productsIndicator .vehicleImage {
+  max-width: 182px;
+  float: left;
+  display: block;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .productsIndicator .name {
+  font-family: gibson; font-weight: 700;
+  font-size: 26px;
+  line-height: 20px;
+  float: left;
+  display: block;
+  margin: 25px 0 2px 0;
+}
+.compareWrapper .compareTireImage img {
+	width: 100%;
+	}
+
+.compareWrapper .productsWrapper .leftColumnFixed .productsIndicator .model {
+  font-family: gibson;
+  font-size: 20px;
+  line-height: 20px;
+  float: left;
+  display: block;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .availability {
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .availability .availFixed {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .availability .availFixed .items ul {
+  height: 125px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .availability .availFixed .items ul li:first-child {
+  height: 43px;
+  line-height: 43px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .trTested {
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0px 0 0px 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .trTested .testFixed {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0px 0 0px 0;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .trTested .testFixed .items ul {
+  height: 79px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .genInfo {
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .genInfo .infoFixed {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0;
+}
+
+
+
+.compareWrapper .productsWrapper .leftColumnFixed .genInfo .infoFixed .items ul {
+  height: 305px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .genInfo .infoFixed .items ul li:first-child {
+  height: 50px;
+  line-height: 50px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey {
+  width: 100%;
+  height: auto;
+  padding-bottom: 65px;
+  border-top: 3px solid #b8b8b8;
+  margin: 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul {
+  height: 448px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li {
+  color: #19170d;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li:nth-child(even) {
+  background: #eaeaea;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li {
+	border-bottom: 1px solid #dfdfdf;
+	}
+
+/* PN4491
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li:nth-child(odd) {
+  background: white;
+}*/
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li:first-child {
+  background: white;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.itemCont {
+  padding: 0;
+  background: white;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.itemCont span {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 28px;
+  float: left;
+  text-align: right;
+  padding-right: 8.6%;
+  border-bottom: 1px solid white;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.itemCont span.boxWrap {
+  width: 10.7%;
+  padding: 0;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.itemCont span.boxWrap .boxText {
+  color: white;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: none;
+
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.itemCont span.row {
+  float: right;
+  width: 89.3%;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.offroad{
+	height: 112px !important;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.offroad span.offroadTextWrap{
+	height: 112px !important;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.offroad span.offroadTextWrap .offroadText{
+	line-height: 142px !important; 
+	height: 144px !important;
+	white-space: nowrap;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.wet {
+  height: 56px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.wet span.wetTextWrap {
+  height: 56px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.wet span.wetTextWrap .wetText {
+  line-height: 56px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.dry {
+  height: 84px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.dry span.dryTextWrap {
+  height: 84px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.dry span.dryTextWrap .dryText {
+  line-height: 84px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.winter {
+  height: 84px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.winter span.winterTextWrap {
+  height: 84px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.winter span.winterTextWrap .winterText {
+  line-height: 130px;
+  height: 131px;
+  font-size: 10px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.comfort {
+  height: 56px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.comfort span.comfortTextWrap {
+  height: 56px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .items ul li.comfort span.comfortTextWrap .comfortText {
+  line-height: 75px;
+  height: 75px;
+  font-size: 10px;
+}
+
+section.productsWrapper.hasOffRoad .leftColumnFixed .custSurvey .surveyFixed .items ul{
+	height: 560px;
+}
+
+.legend{
+	position: absolute; 
+	width: 749px; 
+	top: 448px; 
+	z-index: 0; 
+	font-size: 12px; 
+	vertical-align: top; 
+	margin-left: 10px; 
+	height: 134px; 
+	background-color: white; 
+	padding-top: 10px;
+}
+
+section.productsWrapper.hasOffRoad .legend{
+	position: absolute; 
+	width: 749px; 
+	top: 560px !important; 
+	z-index: 0; 
+	font-size: 12px; 
+	vertical-align: top; 
+	margin-left: 10px; 
+	height: 134px; 
+	background-color: white; 
+	padding-top: 10px;
+}
+
+.legend div{
+	width: 10px; 
+	height: 20px; 
+	display: inline-block; 
+	margin: 0px 5px 0px 20px; 
+	position: relative; 
+	top: 6px;
+}
+
+.legend sbold{
+	font-size: 16px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc {
+  height: 69px;
+  display: inline-block;
+  float: right;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #464646;
+  font-family: gibson; font-style: italic;
+  font-size: 11px;
+  line-height: 13px;
+  position: relative;
+}
+/* 4491
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys {
+  position: absolute;
+  top: 0;
+  left: 186px;
+  z-index: 2;
+  padding-top: 10px;
+  width: 758px;
+  background: #fff;
+  height: 134px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul {
+  display: inline;
+  float: left;
+  width: 50%;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul.first {
+  width: 180px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul.second {
+  width: 180px;
+}
+.colorKeys .text {
+    float: none;
+}
+.colorKeys .text span {
+	font-family: gibson; font-weight: 500;
+	}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li {
+  text-align: left;
+  width: 100%;
+  font-family: gibson;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span {
+  display: inline-block;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg {
+  width: 24px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 11px;
+  vertical-align: middle;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg.green {
+  background: #73c654;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg.lightGreen {
+  background: #b9eb8a;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg.red {
+  background: #ef5134;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg.yellow {
+  background: #fee34c;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .custSurvey .surveyFixed .colorKeyDesc .colorKeys ul li span.colorBg.orange {
+  background: #f39440;
+}*/
+
+.compareWrapper .productsWrapper .leftColumnFixed .tireSpec {
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0px 0 41px 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .tireSpec .specFixed {
+  width: 100%;
+  height: 162px;
+  position: relative;
+  margin: 0px 0 23px 0;
+}
+
+.compareWrapper .productsWrapper .leftColumnFixed .tireSpec .specFixed .items ul li {
+  line-height: 28px;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .title {
+  font-family: gibson; font-weight: 500;
+  font-size: 15px;
+  line-height: 19px;
+  left: 0;
+  position: absolute;
+  top: -27px;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .title span {
+  width: 19px;
+  height: 18px;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .title span.minus {
+  background: url("/images/css_elements/retail/icon-sprite.png") -3px -1740px;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .title span.plus {
+  background: url("/images/css_elements/retail/icon-sprite.png") -35px -1740px;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .fixed .items {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .fixed .items ul {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .fixed .items ul li {
+  font-family: gibson; font-weight: 500;
+  font-size: 13px;
+  line-height: 28px;
+  color: #19170d;
+  height: 28px;
+  width: 100%;
+  padding-right: 20px;
+  text-align: right;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .fixedWrapper .fixed .items ul li:nth-child(even) {
+  background: #eaeaea;
+}
+
+.compareWrapper .productsWrapper .tireSpec.fixedWrapper .fixed .items ul li:last-child {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.compareWrapper .productsWrapper .productsImages {
+  width: 760px;
+  float: right;
+  height: auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  /*position: relative;*/
+}
+
+.compareWrapper .productsWrapper .productsImages .container {
+  width: 100%;
+  overflow: hidden;
+  /*margin-left: 2px ;*/
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper {
+  border-left: 1px solid #d9d9d9;
+  background: #eaeaea;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide {
+  background: #fff;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth {
+  width: 190px;
+  max-width: 190px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper {
+  width: 146px !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToCart {
+  width: 146px !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToPackage {
+  width: 146px !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .saveForLater {
+  text-align: right !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .addToCart {
+  padding-left: 42px !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .addToCart span {
+  left: 13px !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .addToPackage {
+  padding: 0 !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .addToPackage span {
+  display: none !important;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth {
+  width: 380px;
+  max-width: 380px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth {
+  height: auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth:last-child .contentWrapper, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth:last-child .contentWrapper {
+  border-right: 1px solid #ececec;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper {
+  width: 337px;
+  margin: 0 auto;
+  padding-top: 20px;
+  /*padding-bottom: 28px;*/
+  z-index: 1;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .title, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .title {
+  min-height: 48px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .title .sTitle, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .title .sTitle {
+  text-transform: uppercase;
+  font-family: gibson;
+  font-size: 11px;
+  line-height: 11px;
+  word-wrap: break-word;
+
+
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .title .bTitle, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .title .bTitle {
+  text-transform: uppercase;
+  font-family: gibson; font-weight: 700;
+  font-size: 18px;
+  line-height: 15px;
+  word-wrap: break-word;
+}
+
+.compareWrapper .productsWrapper div.title a {
+	color: #19170d;
+	}
+.compareWrapper .productsWrapper div.title a:hover {
+	color: #2e7993; text-decoration: none;
+	}
+
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList:after, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList:after {
+  clear: both;
+  content: '';
+  display: block;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .leftColumn, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .rightColumn, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .leftColumn, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .rightColumn {
+  width: 43.6%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .rightColumn, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .rightColumn {
+  width: 43.6%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .differentiation, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .differentiation {
+  float: left;
+  height: auto;
+  min-height: 24px;
+  padding-left: 2px;
+  width: 100%;
+  margin-top: 8px;
+}
+
+
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .differentiation ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .differentiation ul {
+  list-style: none outside none;
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .differentiation ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .differentiation ul li {
+ 	background-color: #f2a633;
+    border-radius: 0.45em 0;
+	border: 1px solid white;
+    color: #ffffff;
+    float: left;
+    font-family: gibson; font-weight: 500;
+    font-size: 10px;
+    font-style: italic;
+    
+    line-height: 3px;
+    margin: 0 2px 2px 0px;
+    padding: 8px 6px 6px 4px;
+    text-transform: uppercase;
+    width: auto;
+}
+.compareWrapper .productRating span.avgRating div.breakdown {
+top: 18px;
+}
+/* select and quontity fitment styling */
+.productList .tireSelectWrapper .dropdownButton select {
+width: 150px;
+font-family: gibson !important;
+font-size: 15px;
+padding: 5px !important;
+}
+.productList .tireSelectWrapper .dropdownButton button {
+	font-family: gibson;
+	width: 148px;
+	height: 30px;
+	padding: 5px 30px 10px 0 ;
+	font-size: 15px;
+	}
+.productList .tireSelectWrapper .dropdownButton	button:after {
+    content: "";
+    height: 9px;
+    position: absolute;
+    right: 0;
+    top: 11px;
+    width: 20px;
+}
+.compareWrapper .productsWrapper .leftColumnFixed .genInfo .infoFixed .items ul li.sidewall { height: 50px; line-height: 50px;}
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul li.sidewall {display: table;  height: 50px; line-height: 15px; min-height: 50px;  vertical-align: middle; width: 191px; }
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul li.sidewall span {display: table-cell; vertical-align: middle;}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul li.sidewall {display: table;  height: 50px; line-height: 15px; min-height: 50px;  vertical-align: middle; width: 191px; }
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul li.sidewall span {display: table-cell; vertical-align: middle;}
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul li.sidewall .rhp {font-size:11px;}
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul li.sidewall .rhp {font-size:11px;}
+.productList .tireSelectWrapper .dropdownButton option {
+	font-size:15px;
+	}
+.productList .front-left-qty .dropdownButton ,  .productList .rear-left-qty .dropdownButton, .productList .qty .dropdownButton {
+	top: 15px;
+	}
+.compareWrapper .productList .prodSpecials{
+	font-family: gibson;
+	font-size: 16px;
+	display: inline-block;
+	line-height: 16px;
+	}
+.compareWrapper .tireSelectWrapper .dropdownButton button div {
+	font-family: gibson; font-weight: 500;
+}
+.compareWrapper .tireSelectWrapper button span {
+	font-family: gibson;
+	}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList img, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList img {
+
+  margin-bottom: 2px;
+}
+.compareWrapper .innerWrapper .differentiation ul li img {margin-bottom: 0px !important;}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .desc, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .desc {
+  width: 100%;
+  min-height: 26px;
+  background: #eaeaea;
+  text-align: left;
+  text-indent: 5px;
+  line-height: 26px;
+  margin-bottom: 15px;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -ms-border-radius: 2px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .desc .label, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .desc .label {
+  font-family: gibson;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .desc .value, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .desc .value {
+  font-family: gibson; font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .qty, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .qty {
+  width: 44px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .qty label, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .qty label {
+  font-family: gibson;
+  font-size: 12px;
+  line-height: 12px;
+  text-indent: 5px;
+  margin-bottom: 2px;
+}
+
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .qty select, 
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .qty select {
+  width: 65px;
+}
+.compareWrapper .mapPricing {
+	font-family: gibson; font-weight: 500;
+	font-size: 14px;
+	line-height: 14px;
+	display: inline-block;
+	}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .price, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .price {
+  width: 57.3%;
+  min-height: 60px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .price ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .price ul {
+  text-align: right;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .price ul li.priceLabel, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .price ul li.priceLabel {
+  margin-bottom: 5px;
+  font-family: gibson;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .price ul li.priceAmnt, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .price ul li.priceAmnt {
+  font-family: gibson; font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .productList .price ul li.priceAmnt span, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .productList .price ul li.priceAmnt span {
+  vertical-align: top;
+}
+.compareWrapper .productList .currency {
+	font-family: gibson;
+	font-size: 14px;
+	line-height: 16px;
+	}
+.compareWrapper .discountPrice {
+	font-family: gibson; font-weight: 500;
+	margin-bottom: 5px;
+	font-size: 18px;
+	}
+.compareWrapper .price ul li.priceAmnt span.red {
+  display: block;
+}
+
+.compareWrapper .priceTotal, .compareWrapper .promoprice {
+	width: 100%;
+	text-align: center;
+	margin-top: 14px;
+	}
+.compareWrapper .priceTotal { white-space: nowrap;}
+.compareWrapper .promoprice a { line-height: 12px;}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .addToCartButton, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToCartButton {
+  width: 100%;
+  float: left;
+  margin: 20px 0 16px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .addToCart, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToCart {
+	float:none;
+  width: 188px;
+  margin: 0 auto;
+  background: none repeat scroll 0 0 #D70000;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -ms-border-radius: 2px;
+  color: #FFFFFF;
+  display: block;
+  font-family: gibson; font-weight: 500;
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 auto;
+  position: relative;
+  text-align: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 63px;
+  z-index: 1;
+}
+.compareWrapper .addToCartButton a:hover {
+	background-color: #3c3837 !important;
+	}
+
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .addToCart span, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToCart span {
+  background: url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -6px -1465px;
+  bottom: 0;
+  display: inline-block;
+  height: 40px;
+  left: 33px;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .addToPackage, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToPackage {
+  width: 188px;
+  margin: 0 auto;
+  background: none repeat scroll 0 0 #D70000;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -ms-border-radius: 2px;
+  color: #FFFFFF;
+  display: block;
+  font-family: gibson; font-weight: 500;
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  z-index: 0;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .addToPackage span, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .addToPackage span {
+  display: none;
+  background: url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -6px -1465px;
+  bottom: 0;
+  height: 40px;
+  left: 33px;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .saveForLater, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .saveForLater {
+  font-family: gibson; font-weight: 500;
+  font-size: 14px;
+  line-height: 13px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .saveForLater span, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .saveForLater span {
+  font-family: aleo; font-weight: 700;
+  font-size: 14px;
+  line-height: 13px;
+  margin-left: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper p, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper p {
+  font-family: gibson;
+  font-size: 11px;
+  line-height: 13px;
+  margin-top: 22px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability {
+  font-family: gibson;
+  font-size: 15px;
+  line-height: 19px;
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul {
+  height: 125px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul.second {
+  width: 189px;
+  display: inline-block;
+  float: left;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul.second {
+  border-left: 1px solid #ececec;
+  margin-left: 0;
+  width: 189px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul li {
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul li:first-child, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul li:first-child {
+  height: 43px;
+  line-height: 16px;
+  vertical-align: middle;
+  display: table-cell;
+  width: 189px;
+  padding: 0 3px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .availability .availMovable .items ul li.bg-grey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .availability .availMovable .items ul li.bg-grey {
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+  width: 191px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested {
+  font-family: gibson;
+  font-size: 15px;
+  line-height: 19px;
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul {
+  height: 79px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul.second {
+  width: 189px;
+  display: inline-block;
+  float: left;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul.second {
+  border-left: 1px solid #ececec;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul li {
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .trTested .testMovable .items ul li.bg-grey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .trTested .testMovable .items ul li.bg-grey {
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+  width: 191px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo {
+  font-family: gibson;
+  font-size: 15px;
+  line-height: 19px;
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul {
+  height: 305px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul.second {
+  width: 189px;
+  display: inline-block;
+  float: left;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul.second {
+  border-left: 1px solid #ececec;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul li {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul > li:first-child, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul > li:first-child {
+  height: 50px;
+  line-height: 15px;
+  vertical-align: middle;
+  display: table-cell;
+  width: 189px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .genInfo .infoMovable .items ul li.bg-grey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .genInfo .infoMovable .items ul li.bg-grey {
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+  width: 191px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey {
+  padding-bottom: 65px;
+  font-family: gibson;
+  font-size: 15px;
+  line-height: 19px;
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey.heightauto, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey.heightauto {
+  min-height: 0 !important;
+  height: 0 !important;
+  padding-bottom: 0;
+  margin-bottom: -3px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .title, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .title {
+  font-family: gibson;
+  font-size: 15px;
+  line-height: 19px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  position: absolute;
+  top: -24px;
+  text-align: center;
+  color: #2e7993;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable {
+  width: 100%;
+  /*height:162px;*/
+  height: auto;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable .items, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable .items {
+  width: 100%;
+}
+
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable .items ul.first {
+  width: 100%;
+  display: inline-block;
+  float: left;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable .items ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable .items ul li {
+  color: #19170d;
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable .items ul > li:first-child, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable .items ul > li:first-child {
+  background: white;
+  font-size: 16px;
+  font-family: gibson; font-weight: 500;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .custSurvey .surveyMovable .items ul li.bg-grey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .custSurvey .surveyMovable .items ul li.bg-grey {
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec {
+  width: 100%;
+  height: auto;
+  border-top: 3px solid #b8b8b8;
+  margin: 68px 0 0 0;
+  position: relative;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 0px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items {
+  width: 100%;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul.first, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul.second {
+  width: 189px;
+  display: inline-block;
+  float: left;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul.second, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul.second {
+  border-left: 1px solid #ececec;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul li, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul li {
+  color: #19170d;
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 191px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul li:nth-child(even), .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul li:nth-child(even) {
+  background: #EAEAEA;
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+  width: 191px;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul li:last-child, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul li:last-child {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .tireSpec .specMovable .items ul li.bg-grey, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .tireSpec .specMovable .items ul li.bg-grey {
+  border-left: 1px solid #d9d9d9;
+  margin-left: -1px;
+  width: 191px;
+}
+
+.compareWrapper .importantNoteSearch {
+  width: 150px;
+  padding: 15px 0 0;
+  clear:both;
+}
+
+.compareWrapper .importantNoteSearch .text-warning {
+  font-size: 12px;
+}
+
+.compareWrapper .surveyMovable .notApplicable {
+	color: #878684;
+	}
+
+.tireClearRight {
+  display: inline-block;
+  height: 138px;
+  width: 100%;
+  display: none;
+}
+.compareWrapper .productRating a.avgRating div.breakdown {
+	top: 15px;
+	}
+.compareWrapper .productRating .breakdown .numAvgs { text-align: left !important;}
+.compareWrapper .productRating {
+
+	width: 100%;
+	margin: .2em 0 0 0;
+	line-height: 0;
+	}
+.compareWrapper .productRating .innerProductRating {
+	display: inline-block;
+	margin: 0 auto;
+	}
+
+.definitely-star {
+  width: 97px;
+  height: 16px;
+  display: inline-block;
+  position: relative;
+  background: url("/images/css_elements/retail/star-ratings-green.png") 0 1px;
+}
+
+.definitely-star .star-avg {
+  width: 60px;
+  height: 16px;
+  position: absolute;
+  background: url("/images/css_elements/retail//star-ratings-green.png") 0 -15px;
+  left: 0;
+  top: 0;
+}
+
+
+.possibly-star {
+  width: 97px;
+  height: 16px;
+  display: inline-block;
+  position: relative;
+  background: url("/images/css_elements/retail//star-ratings-orange.png") 0 1px;
+}
+
+.possibly-star .star-avg {
+  width: 60px;
+  height: 16px;
+  position: absolute;
+  background: url("/images/css_elements/retail//star-ratings-orange.png") 0 -15px;
+  left: 0;
+  top: 0;
+}
+
+
+.probably-star {
+  width: 97px;
+  height: 16px;
+  display: inline-block;
+  position: relative;
+  background: url("/images/css_elements/retail//star-ratings-light-green.png") 0 1px;
+}
+
+.probably-star .star-avg {
+  width: 60px;
+  height: 16px;
+  position: absolute;
+  background: url("/images/css_elements/retail//star-ratings-light-green.png") 0 -15px;
+  left: 0;
+  top: 0;
+}
+
+
+.promoBg {
+  width: 24px;
+  height: 18px;
+  background: url("/images/css_elements/retail/icon-sprite.png") 2px -657px;
+  float: left;
+}
+
+
+.promoText {
+  display: table-cell;
+  line-height: 1.3;
+}
+
+.promoText a {
+  color: #19170d;
+}
+ .compareWrapper .promoText a:hover { color: #2e7993; text-decoration: none;}
+
+.promoBgDiv {
+  padding-top: 17px;
+  clear: both;
+  font-size: 11px;
+}
+
+.promoBgDiv .promoText span {
+	font-family: gibson; font-weight: 500;
+	}
+.promoBgDiv .promoText .promoAndOr {
+	display: block;
+	line-height: 1.6;
+	text-align:center;
+	}
+
+.toolTipInner {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-left: 2px;
+  margin-right: 6px;
+  vertical-align: middle;
+  background: url("/images/css_elements/retail/icon-sprite.png") -30px -1429px;
+}
+
+.ui-tooltip{
+    width: 160px;
+    text-align: center;
+    margin-top: -39px;
+    margin-left: 220px;
+    z-index: 8;
+    margin-top: -39px;
+}
+
+.selectDeliveryTimes .ui-tooltip{
+    margin-top: -50px;
+}
+
+.ui-tooltip .filterRemove{
+    font-size: 14px;
+    float: right;
+    color: #aeaeae;
+    margin: -5px;
+}
+
+.productsImages {
+  position: relative;
+}
+
+.productsImages .prev {
+  position: absolute;
+  left: -27px;
+  top: 170px;
+  width: 40px;
+  height: 42px;
+  display: inline-block;
+  background: url("/images/css_elements/retail/icon-sprite.png") -49px -1684px;
+}
+
+.productsImages .next {
+  position: absolute;
+  right: -27px;
+  top: 170px;
+  width: 40px;
+  height: 42px;
+  display: inline-block;
+  background: url("/images/css_elements/retail/icon-sprite.png") -96px -1684px;
+}
+
+
+.innerWrapper {
+  position: relative;
+}
+
+.innerWrapper .close-image {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  z-index: 3px;
+  background: url("/images/css_elements/retail/icon-sprite.png") -65px -1765px;
+  top: 8px;
+  right: -14px;
+}
+
+
+.accordian, .close-image, .next, .prev, .toolTipInner {
+  cursor: pointer;
+}
+
+
+.slide.active .contentWrapper {
+  border-left: 0;
+}
+
+
+
+
+.st {
+  display: inline-block;
+  position: relative;
+  font-size: 17px;
+}
+
+.st :after {
+  height: 1px;
+  width: 100%;
+  content: '';
+  background: #000;
+  top: 10px;
+  position: absolute;
+  left: 0;
+}
+.compareWrapper .totalCurrency {font-size: 15px; margin-top: 0px;}
+.compareWrapper .itemprice {font-size: 20px; }
+.compareWrapper .add-package-compare a:hover { text-decoration: none; }
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .add-package-compare { width: 100%;}
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .add-package-compare .addToCart {
+padding-left: 0  !important;
+text-align: center;
+font-size: 14px;}
+.compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.twoFourth .innerWrapper .add-package-compare .addToCart, .compareWrapper .productsWrapper .productsImages .container .imagesWrapper.movable .slide.oneFourth .innerWrapper .add-package-compare .addToCart {text-align: center; padding-left: 0px;}
+.compareWrapper .tireSpec .specall a { line-height: 20px;}
+
+/* Wheel Visualizer - Being Combined */
+
+#visualizer {
+background-color:#fff;
+margin-bottom:200px;
+position:absolute;
+width:920px;
+top:150px;
+max-height:700px;
+padding:10px;
+}
+
+#visualizer .compContainer .multiCarousel {
+background-size:100% 100%;
+}
+
+#visualizer .compContainer .multiCarousel .fav {
+width:100px;
+}
+
+#visualizer .compContainer .multiCarousel .carVisualizer {
+width:860px;
+margin:0 auto;
+}
+
+#visualizer .carRotator li {
+max-height:360px;
+}
+#visualizer .carRotator img {
+max-width:860px;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none;
+}
+#vehicleContainer .carVisualizer .rotatorWrapper .frontWheelOverlayLarge {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none; }
+#vehicleContainer .carVisualizer .rotatorWrapper .rearWheelOverlayLarge {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none; }
+ #vehcView .bx-wrapper {
+ max-width: 700px; margin: 0px auto;
+ }
+#vehcView #wheelHolderVisualizer {
+width: 100%;position: relative; height: 132px;
+	 }
+#vehcView .wheelCar {
+	 position: relative; transition-duration: 0s; transform: translate3d(0px, 0px, 0px); left:0px;
+	 }
+#vehcView .wheelCar li {
+	 float: left; list-style: none outside none; position: relative; width: 117px; cursor:pointer;
+	 }
+
+
+#visualizer .carDet .pLevel {
+width:28%;
+}
+
+#visualizer .carDet .pLevel select {
+width:210px;
+font-family:gibson; font-weight: 500;
+font-size:14px;
+line-height:18px;
+}
+
+#visualizer .carDet .pLevel .hideOverlay {
+float:left;
+position:relative;
+}
+
+#visualizer .carDet .pLevel .hideOverlay img {
+position:absolute;
+top:38px;
+right:-265px;
+}
+
+#visualizer .wheelRotator {
+padding-top:5px;
+width:93.4%;
+}
+
+#visualizer .wheelRotator ul {
+margin-left:20px;
+}
+
+#visualizer .wheelRotator ul li {
+max-width:140px;
+}
+
+#visualizer .wheelRotator ul .bl {
+border-left:1px solid #cecece;
+}
+
+#visualizer .wheelRotator ul.active:before {
+top:-17px;
+}
+
+@media (min-width: 1350px) {
+    .viewLarger {
+	background: rgba(0, 0, 0, 0) url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -128px -622px;
+	cursor: pointer;
+	float: right;
+	height: 29px;
+	margin: -27px -5px;
+	position: relative;
+	width: 29px;
+	display: block;
+    }
+}
+
+.prodDetails.wheelVisInfo {
+	margin: 0 auto 45px;
+	float: none;
+	border-bottom: 1px solid #ddd;
+	padding: 0 20px 20px;
+	width: auto;
+}
+
+.wheelVisInfo .tabbedPanelsContent .rear {
+	border-bottom: none;
+}
+
+#wheelRotator li.active:after {
+	position: absolute;
+	display: block;
+	content: "";
+	width: 25px;
+	height: 25px;
+	border: 1px solid #ddd;
+	border-bottom: none;
+	border-right: none;
+	transform: rotate(45deg);
+	bottom: -20px;
+	left: 59px;
+	background: #fff;
+}
+
+.compContainer {
+border-bottom:1px solid #cecece;
+padding:8px 0;
+margin-bottom: 20px;
+}
+
+.compContainer .iconHolder {
+float:left;
+width:99%;
+margin:0 auto;
+padding:0 0 0 1%;
+}
+
+.compContainer .iconHolder div.icons {
+width:60%;
+}
+
+.compContainer .icons .social li.chk {
+background:none;
+font-family:gibson; font-weight: 500;
+font-size:14px;
+line-height:24px;
+text-indent:0;
+width:auto;
+margin:3px 0 0 40px;
+}
+
+.compContainer .icons .social li.chk checkbox {
+margin-right:5px;
+float: left;
+}
+.compContainer .icons .social li.chk label {
+    float: left;
+}
+
+.compContainer .multiCarousel {
+background:url(/images/css_elements/retail/wheel_visualizer/carRotatorBg.jpg) repeat 0 0;
+float:left;
+margin-top:10px;
+width: 100%;
+box-sizing: border-box;
+padding:10px 1.25% 15px;
+height: 100%;
+max-height: 408px;
+height: 408px\9 !important; /* ie8 and earlier */
+}
+
+.compContainer .multiCarousel .fav {
+position:relative;
+width:85px;
+}
+
+.multiCarousel .vvColorPicker:after {
+    border-right: 1px solid #9c9c9c;
+	margin-top:2px;
+    content: "";
+    float: right;
+    height: 22px;
+    margin-left: 12px;
+}
+
+.vvColorPicker {
+    float: right;
+    margin-right: 12px;
+    margin-top: 0;
+}
+
+.mgColorPicker {
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    right: 20px;
+}
+
+.multiCarousel .right checkbox {
+    margin-left: 6px;
+    margin-right:6px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.multiCarousel .right .carouselFave {
+    display: inline-block;
+	vertical-align: middle;
+    font-family: gibson; font-weight: 500;
+}
+
+.compContainer .multiCarousel .fav span {
+font-family:gibson; font-weight: 500;
+font-size:12px;
+line-height:23px;
+margin-right:7px;
+text-transform:uppercase;
+}
+
+.compContainer .multiCarousel .fav a {
+position:absolute;
+width:100%;
+}
+
+.compContainer .multiCarousel .fav a checkbox {
+background-color:#fff;
+position:relative;
+right:0;
+margin:0;
+}
+
+.compContainer .multiCarousel .carVisualizer {
+width:700px;
+margin:0 auto;
+}
+
+.compContainer .multiCarousel .carRotator {
+float:left;
+margin-bottom:5px;
+position:relative;
+height:auto;
+width:100%;
+}
+
+.compContainer .multiCarousel .carRotator li {
+position:relative;
+height:260px;
+width:100%;
+}
+
+.compContainer .multiCarousel .carRotator img {
+max-width:700px;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none;
+}
+
+.compContainer .multiCarousel .carRotator img.leftTire,.compContainer .multiCarousel .carRotator img.rightTire {
+z-index:999;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none;
+}
+
+.compContainer .multiCarousel .carRotator img.leftCover,.compContainer .multiCarousel .carRotator img.rightCover {
+z-index:99;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none;
+}
+
+.compContainer .multiCarousel .carRotator .iconcontrol,.compContainer .multiCarousel .carRotator .carIc {
+height:40px;
+position:absolute;
+top:90px;
+width:30px;
+}
+
+.compContainer .multiCarousel .carRotator .iconcontrol.left,.compContainer .multiCarousel .carRotator .carIc.left {
+background:url(/images/css_elements/retail/icon-sprite.png) no-repeat scroll -56px -1684px;
+left:-30px;
+cursor: pointer;
+}
+
+.compContainer .multiCarousel .carRotator .iconcontrol.right,.compContainer .multiCarousel .carRotator .carIc.right {
+background:url(/images/css_elements/retail/icon-sprite.png) no-repeat scroll -101px -1684px;
+right:-30px;
+cursor: pointer;
+}
+
+.compContainer .multiCarousel .carDet {
+float:left;
+margin-top:10px;
+width:100%;
+}
+
+.compContainer .multiCarousel .carDet .topH {
+font-family:gibson; 
+font-size:14px;
+line-height:14px;
+text-transform:uppercase;
+}
+
+.compContainer .multiCarousel .carDet h2 {
+font-family:gibson; font-weight: 700;
+font-size:22px;
+line-height:18px;
+text-transform:uppercase;
+margin:0;
+}
+
+.compContainer .multiCarousel .carDet h2 a {
+color:#19170D;
+}
+
+.compContainer .multiCarousel .carDet h2 a:hover { text-decoration: none; color: #2e7993;}
+.compContainer .multiCarousel .carDet h2 a:hover * { text-decoration: none; color: #2e7993;}
+.compContainer .multiCarousel .carDet .subH {
+font-family:gibson; 
+font-size:14px;
+line-height:16px;
+margin:2px 0;
+}
+
+.compContainer .multiCarousel .carDet .prev {
+font-family:gibson; 
+font-size:12px;
+line-height:15px;
+margin:2px 0;
+}
+
+.compContainer .multiCarousel .carDet .pHead span {
+font-family:gibson; font-weight: 500;
+line-height:20px;
+}
+
+.compContainer .multiCarousel .carDet radiobutton {
+box-shadow:none;
+float:left;
+height:14px;
+width:14px;
+margin:4px 4px 0;
+font-size: 14px;
+}
+.compContainer .multiCarousel .carDet radiobutton.enabled { background: url("/images/css_elements/retail/icon-sprite.png") repeat scroll -91px -1764px #ffffff;}
+
+.compContainer .multiCarousel .carDet radiobutton.enabled span {
+background-color:#FF1000;
+border-radius:125px;
+display:inline-block;
+height:6px;
+width:6px;
+margin:3px;
+padding:1px;
+}
+
+.compContainer .multiCarousel .carDet .right li {
+clear:left;
+float:left;
+}
+
+.compContainer .multiCarousel .carDet .pLevel {
+width:48%;
+}
+.compContainer .multiCarousel .carDet .pLevel .pHead { margin-bottom: 2px; font-size: 14px;}
+
+.compContainer .multiCarousel .carDet .pLevel .priceInf .crossedOut { text-decoration: line-through;}
+.compContainer .multiCarousel .carDet .pLevel .priceInf , .compContainer .multiCarousel .carDet .pLevel .moreInfContainer { float: left;}
+.compContainer .multiCarousel .carDet .pLevel .priceInf li.multiple select {
+max-height:30px;
+width:100%;
+}
+.multiCarousel .exp {
+    display: block;
+    left: 675px;
+    position: relative;
+    top: -25px;
+    width: 26px;
+}
+.compContainer .multiCarousel .carDet .pLevel li.exp {
+  bottom: 10px;
+    float: right;
+    position: relative;
+    width: 30px;
+}
+
+.compContainer .multiCarousel .carDet .pLevel li.exp.showOverLay {
+position:relative;
+bottom:0;
+width:100%;
+right:-75px;
+}
+
+.compContainer .multiCarousel .carDet .pLevel img {
+/*position:absolute;
+right:-10px;
+top:10px; */
+float: right;
+}
+
+.compContainer .multiCarousel .carDet .radioSpan {
+font-family:gibson; font-weight: 500;
+font-size:14px;
+line-height:22px;
+float:left;
+/*width:110px;*/
+}
+
+.compContainer .wheelRotator {
+float:left;
+position:relative;
+height:120px;
+width:92.2%;
+padding:10px 30px;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+}
+
+.compContainer .wheelRotator .bx-wrapper {
+top:-26px;
+position:relative;
+}
+
+.compContainer .wheelRotator .bx-wrapper .bx-viewport {
+height:160px!important;
+}
+
+.compContainer .wheelRotator .wheelCar {
+padding-top:26px;
+}
+
+.compContainer .wheelRotator ul {
+float:left;
+width:100%;
+position:relative;
+left:16px;
+}
+
+.compContainer .wheelRotator li.favWheel:before {
+content:"";
+background: url(/images/css_elements/retail/icon-sprite.png) no-repeat -112px -1951px ;
+height:11px;
+top:10px;
+width:14px;
+right:10px;
+position:absolute;
+}
+
+.compContainer .wheelRotator ul li {
+float:left;
+display:inline-block;
+position:relative;
+text-align:center;
+width:118px;
+max-width:138px;
+padding:10px;
+}
+
+
+.compContainer .wheelRotator ul li img {
+width:110px;
+height:110px;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none;
+}
+ 
+.compContainer .wheelRotator ul li.active img {
+width:124px;
+height:124px;
+}
+
+.compContainer .wheelRotator .tireIc,.compContainer .wheelRotator .iconcontrol {
+height:40px;
+position:absolute;
+top:50px;
+width:30px;
+}
+
+.compContainer .wheelRotator .tireIc.left,.compContainer .wheelRotator .iconcontrol.left {
+background:url(/images/css_elements/retail/icon-sprite.png) no-repeat scroll -56px -1684px;
+left:0;
+cursor: pointer;
+}
+
+.compContainer .wheelRotator .tireIc.right,.compContainer .wheelRotator .iconcontrol.right {
+background:url(/images/css_elements/retail/icon-sprite.png) no-repeat scroll -101px -1684px;
+right:0;
+cursor: pointer;
+}
+
+.compContainer .cnt {
+float:right;
+font-family:gibson; font-weight: 500;
+font-size:10px;
+line-height:16px;
+text-align:right;
+margin-right:2px;
+top:-40px;
+position: relative;
+}
+
+.compContainer input[type=button] {
+border:none;
+font-family:gibson; font-weight: 500;
+font-size:14px;
+line-height:24px;
+float:right;
+min-height:24px;
+padding:0 10px;
+}
+
+.compContainer input[type=button].comp {
+background-color:#ff1000;
+color:#fff;
+margin-right:10px;
+}
+
+.compContainer input[type=button].clr {
+background-color:#f0f0f0;
+color:#ff1000;
+}
+
+
+.resultsContainer .rItem .right.prodDetails a.viewVehicle {
+  font-family: gibson; font-weight: 500;
+  font-size: 18px;
+  line-height: 16px;
+  position: relative;
+  color: #2e7993;
+  padding-left: 24px;
+  display: inline-block;
+  margin-top: 12px;
+}
+
+.resultsContainer .rItem .right.prodDetails a.viewVehicle:before {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  content: '';
+  width: 20px;
+  height: 17px;
+  background: url("/images/css_elements/retail/icon-sprite.png") no-repeat 0 -1812px;
+}
+
+
+.aright {
+  text-align: right;
+}
+
+
+#headerBannerTop {
+  background-color: #eaeaea;
+  min-height: 90px;
+}
+
+#headerBannerTop .wrapper {
+  position: relative;
+}
+
+#headerBannerTop .wrapper:after {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 0;
+  left: -25px;
+  width: 262px;
+  height: 92px;
+  z-index: 0;
+}
+
+#headerBannerTop .left {
+  padding: 25px 0px 20px;
+  width: 70%;
+  position: relative;
+  z-index: 1;
+}
+
+#headerBannerTop .right {
+  width: 30%;
+  text-align: right;
+  position: relative;
+}
+
+#headerBannerTop .right img.banner {
+  margin-top: 7px;
+  position: relative;
+  right: -50px;
+}
+
+#headerBannerTop .right img.copyColor {
+  margin-top: 9px;
+  position: absolute;
+}
+
+#headerBannerTop .subHead {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 14px;
+  margin-bottom: 5px;
+}
+
+#headerBannerTop .detail {
+  font-family: inherit;
+  font-size: 26px;
+  line-height: 19px;
+}
+
+#headerBannerTop .detail h1 {
+  display: inline-block;
+  margin: 0px 5px;
+}
+
+#headerBannerTop .detail a {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 14px;
+}
+
+#filterSection.wsr {
+  margin-top: 15px;
+}
+
+
+
+#filterSection.wsr ul.checks li a {
+  float: left;
+}
+
+#filterSection.wsr .purBtn {
+  background: url("/images/css_elements/retail/icon-sprite.png") no-repeat -32px -1921px #ff1000;
+  border-radius: 3px;
+  font-family: gibson; font-weight: 500;
+  font-size: 16px;
+  line-height: 14px;
+  color: white;
+  padding: 13px 20px 13px;
+  margin-top: 18px;
+  position: relative;
+  text-indent: 25px;
+  min-width: 150px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#filterSection.wsr .right.results .selectedFilters li {
+  margin: 8px 7px 0px 0px;
+}
+
+#filterSection.wsr .borderShade:after {
+  display: none;
+}
+
+#filterSection.wsr .borderShade:before {
+  display: none;
+}
+
+#filterSection.wsr .topFilterOptions form {
+  float: left;
+}
+#vehcView .vView  .filterToggle a {
+    background-color: #eaeaea;
+	color: #19170d;
+    border-radius: 20px;
+    padding: 4px 19px;
+    vertical-align: middle;
+	margin-left: 4px;
+	display: inline-block;
+}
+#vehcView .vView  .filterToggle a:hover {
+	text-decoration: none;
+}
+#vehcView .vView .filterToggle a.toggleON { background-color: #3c3837; color: #fff; }
+#vehcView .vView .filterToggle a.toggleOFF { background-color: #eaeaea; color: #19170d;}
+
+#filterSection.wsr .topFilterOptions .vView {
+  float: right;
+  width: 240px;
+  margin-top: 14px;
+}
+
+#filterSection.wsr .topFilterOptions .vView span {
+  text-transform: capitalize;
+  font-family: gibson;
+  font-size: 16px;
+  line-height: 29px;
+  float: left;
+  margin-right: 10px;
+}
+.vView ul.filterToggle li { padding: 4px 19px;}
+
+
+#filterSection.wsr .topFilterOptions .vView input {
+  background-color: #eaeaea;
+  border: none;
+  color: #19170d;
+  float: right;
+  font-family: gibson; font-weight: 500;
+  font-size: 14px;
+  line-height: 23px;
+  border-radius: 100px;
+  min-height: 24px !important;
+  margin: 0px 0px 0px 5px;
+  width: 54px;
+}
+
+#filterSection.wsr .topFilterOptions .vView input.active {
+  background-color: #3c3837;
+  color: #fff;
+}
+
+#filterSection.wsr .resultTypeTitle {
+  background-color: #a6a6a6;
+  text-transform: uppercase;
+  font-family: gibson; font-weight: 500;
+  font-size: 18px;
+  line-height: 31px;
+  color: #fff;
+  padding: 0 12px;
+  border-bottom: 5px solid #eaeaea;
+}
+.msIcon {
+	float: right;
+	width: 80px;
+	height: 80px;
+	margin: 10px;
+	background: url("/images/css_elements/retail/icon-sprite.png") no-repeat -69px -475px transparent;
+}
+
+
+
+#vehcView .icons .social li.print { background: url("/images/css_elements/retail/icon-sprite.png") repeat scroll -93px -370px; width: 30px; height: 30px;}
+#vehcView .icons .social li.print:hover { background-position: -93px -410px;}
+/* Large Wheel Visualizer */
+#vehcViewLarge { background: #ffffff; width: 1280px; padding-top: 0px;}
+#vehcViewLarge .carRotator img { margin-left: -30px; max-width: none;}
+#vehcViewLarge .multiCarousel {background:url(/images/css_elements/retail/wheel_visualizer/carRotatorBg_xl.jpg) repeat 0 0; height: 602px\9 !important; min-height: 670px; margin-top: 0;}
+#vehcViewLarge .multiCarousel .carVisualizer { width: 1220px;}
+#vehcViewLarge .wheelRotator { width: 95.2%;}
+#vehcViewLarge .multiCarousel .exp  { left: 1172px;}
+#vehcViewLarge #favOnlyCheckboxLarge {background:  none repeat scroll 0 0; box-shadow: none; color: #2e7993; font-family: gibson; font-weight: 500; height: auto; line-height: 20px; margin-right: 15px; padding: 0; text-align: center; width: auto; }
+#vehcViewLarge #favOnlyCheckboxLarge.on { text-decoration:underline; }
+#vehcViewLarge #favOnlyCheckboxLarge:hover  { text-decoration:underline;  }
+#vehcViewLarge .multiCarousel .carDet h2 { font-size: 34px; line-height: 30px;}
+#vehcViewLarge .multiCarousel .carDet { float: right; width: 95%; margin-top: -45px;  position: relative; }
+#vehcViewLarge .multiCarousel .carDet > div.left { margin-left: 20px;}
+#vehcViewLarge .multiCarousel .carDet .pLevel { width: 30%;}
+#vehcViewLarge .wheelRotator ul li.active:before { top: -6px;}
+#vehcViewLarge  .multiCarousel .carDet .pLevel .pHead { font-size: 16px;}
+#vehcViewLarge .multiCarousel .carDet .radioSpan { font-size: 18px;}
+#vehcViewLarge span.prodBrand, #vehcViewLarge .multiCarousel .carDet .subH { font-size: 16px;}
+#vehcViewLarge .multiCarousel .moreInfoBuy { font-size: 14px;}
+#vehcViewLarge .wheelRotator ul li  { padding: 10px 14px; cursor:pointer; }
+#vehcViewLarge .multiCarousel .carDet .right .priceInf li { margin-bottom: 3px;}
+#vehcViewLarge .multiCarousel .carVisualizer .pLevel .dropdownButton button { padding: 7px 20px 10px 0; height: 36px; font-size: 18px;  width:  145px;}
+#vehcViewLarge .multiCarousel .carVisualizer .pLevel .dropdownButton button:after { height: 22px; top: 3px;}
+#vehcViewLarge .multiCarousel .multiple .moreInfoBuy { margin-left: 14px; margin-top: 9px;}
+#vehcViewLarge .multiCarousel .dropdownButton select { width: 145px;}
+#vehcViewLarge.multiCarousel  .carRotator { margin-top: 0px;}
+#vehcViewLarge .favWrapper { min-height: 32px;}
+.wheelCompareWrapper div.compare span.prodCompare { margin-right: 0px 6px 0  0; vertical-align: middle; font-family: gibson; font-weight: 500;}
+.wheelCompareWrapper div.compare checkbox.fav { vertical-align: middle;}
+#vehcViewLarge .multiCarousel .carRotator .iconcontrol { top: 265px;}
+/* End Large Wheel Visualizer */
+/* Wheel Compare */
+.wheelCompareWrapper {
+    box-sizing: border-box;
+    margin: 20px auto;
+    width: 1000px;
+}
+.wheelCompareWrapper .carVisualizer {
+	background: url(/images/css_elements/retail/wheel_visualizer/carRotatorBg_lg.jpg) repeat 0 0;
+	padding: 20px;
+	box-sizing: border-box;
+	max-height: 537px;
+	}
+.wheelCompareDetails {background-color: #eaeaea;
+    padding: 14px;}
+.wheelCompareDetails  .innerContainer {background-color: #ffffff; padding: 25px;
+    box-sizing: border-box;}
+	.wheelCompareDetails  .innerContainer .wheelCompareImage { float: left; margin-right: 25px; display: block;}
+	.wheelCompareDetails  .innerContainer .delivEstimate a { float: none;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable { width:768px; float:left; border: 1px solid #dfdfdf;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable li { padding-left: 15px; box-sizing: border-box;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn1 li , .wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn2 li  { border-bottom: 1px solid #dfdfdf; border-right: 1px solid #dfdfdf; }
+.wheelCompareDetails  .wheelCompareTable li {font-size: 14px ; line-height: 22px;}
+.wheelCompareDetails  .wheelCompareTable li sbold {}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn1 li.availWrapper, .wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn2 li.availWrapper {border-bottom: none;  height:70px;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.finishColumn1 li, .wheelCompareDetails  .innerContainer	.wheelCompareTable ul.finishColumn2 li { border-bottom: 1px solid #dfdfdf;}
+.wheelCompareWrapper .imgContainer .rotatorWrapper {width: 878px; position: relative; margin: 0px auto;}
+.wheelCompareDetails  .innerContainer .finishColumnWrapper1 {width: 75%;}
+.wheelCompareDetails  .innerContainer .sizeColumnWrapper1 { width: 25%;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.finishColumn1 {width: 100%;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn1 {width: 100%;}
+.wheelCompareWrapper .carVisualizer .specHead { position: relative; top: 20px; width: 20%;}
+.wheelCompareWrapper .carVisualizer .visPriceWrapper2 { float: right; width: 40%;}
+.wheelCompareWrapper .carVisualizer .visPriceWrapper2 .specHead { float: left; width: 50%;}
+.wheelCompareWrapper .carVisualizer .specHead .specialCloseout { float: right;}
+.wheelCompareWrapper .moreInfo {float: right; text-align:right; clear:both; margin: 5px 0 15px;}
+.wheelCompareDetails  .innerContainer .finishColumnWrapper2 {width: 50%;}
+.wheelCompareDetails  .innerContainer .sizeColumnWrapper2 { width: 50%;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.finishColumn2 {width: 100%;}
+.wheelCompareDetails  .innerContainer	.wheelCompareTable ul.sizeColumn2 {width: 50%;}
+.wheelCompareWrapper .carVisualizer .vizMapPrice { float: right;}
+.backToWheels { margin: 20px 0 0 10px;}
+.wheelCompareWrapper .imgContainer { position: relative; height: auto; float: left; width: 100%;margin-bottom: 15px; }
+.wheelCompareWrapper .mapPricing {  display: block; float: right; margin-bottom: 7px;  text-align: right; width: 100%; font-family: gibson; font-size: 13px; line-height: 16px;}
+.wheelCompareWrapper .discountPrice {width: 100%;  text-align: right; margin-bottom: 0px;}
+.wheelCompareWrapper .noRear { border: 0 none; clear: none; display: inline-block; margin-bottom: 0px; font-size: 13px; padding: 0; text-align: left; }
+.wheelCompareWrapper .carVisualizer h2  { line-height: 30px;}
+.wheelCompareWrapper .carVisualizer h2 a { color: #19170d; font-size: 32px; }
+.wheelCompareWrapper .carVisualizer h2 a * { text-decoration: none !important;}
+.wheelCompareWrapper .carVisualizer h2 a:hover {
+    text-decoration: none; color: #2e7993;
+}
+.wheelCompareWrapper .carVisualizer h2 a:hover * {
+    color: #2e7993;
+    text-decoration: none;
+}
+.wheelCompareWrapper .carVisualizer .topH { text-transform: uppercase;}
+.wheelCompareWrapper .carVisualizer .subH { margin-bottom: 6px; font-family: gibson;}
+.wheelCompareWrapper .carVisualizer .specPer { margin-bottom: 4px; float: none;}
+.wheelCompareWrapper .carVisualizer a.prev { font-size:14px;}
+.wheelCompareWrapper .finalPrice .currency { font-family: gibson; font-size: 18px; line-height: 14px;  vertical-align: top;}
+.wheelCompareWrapper .icons .social li.print { background: url("/images/css_elements/retail/icon-sprite.png") repeat scroll -93px -370px; width: 30px; height: 30px; }
+.wheelCompareWrapper .icons .social li.print:hover { background-position: -93px -410px;}
+.wheelCompareDetails .innerContainer .wheelCompareTable ul.finishColumn1 li:last-child, .wheelCompareDetails .innerContainer .wheelCompareTable ul.finishColumn2 li:last-child { border-bottom: none;}
+.wheelCompareDetails .innerContainer .wheelCompareTable  .howSoon { display: block;}
+.wheelCompareDetails .innerContainer .wheelCompareTable li.availWrapper { padding-top: 5px; line-height: 16px;}
+.wheelCompareDetails .wheelCompareTable li.last { border-bottom: none !important;}
+/*End Wheel Compare */
+#vehicleContainer .carVisualizer .rotatorWrapper {width: 680px; position: relative; margin: 0px auto; -webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none; }
+#vehicleContainer .carVisualizer .rotatorWrapper img {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none; }
+#vehicleContainer .carVisualizer .rotatorWrapper .frontWheelOverlay {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none; }
+#vehicleContainer .carVisualizer .rotatorWrapper .rearWheelOverlay {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+pointer-events: none; }
+
+#vehcView .vView {
+  float: left;
+  width: 240px;
+  margin-top: 14px;
+}
+
+#vehcView .vView span {
+  text-transform: capitalize;
+  font-family: gibson;
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+#vehcView .filterToggle { display: inline-block; vertical-align: middle;}
+
+
+#vehcView .vView input {
+  background-color: #eaeaea;
+  border: none;
+  color: #19170d;
+  float: right;
+  font-family: gibson; font-weight: 500;
+  font-size: 14px;
+  line-height: 23px;
+  border-radius: 100px;
+  min-height: 24px !important;
+  margin: 0px 0px 0px 5px;
+  width: 54px;
+}
+
+#vehcView .topFilterOptions .vView input.active {
+  background-color: #3c3837;
+  color: #fff;
+}
+
+a.wheelCompareBtn {background-color: #fff;
+    border: 1px solid #cecece;
+    border-radius: 50px;
+    color: #d70000;
+    display: inline-block;
+    font-family: gibson; font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 10px 10px 0 0;
+    padding: 0 13px;
+    text-align: center;
+    text-transform: none;
+}
+a.wheelCompareBtn:hover { background-color: #2f2f2f; border-color: #2f2f2f; color: #ffffff; text-decoration: none;}
+.multiCarousel .moreInfoBuy  { font-size: 12px; display: inline-block; margin-left: 10px; line-height: 15px; float:right;}
+.multiCarousel .multiple .moreInfoBuy { margin-top: 4px;}
+#vehcView .iconHolder .btnCont li { display: inline-block;}
+#vehcView .iconHolder .btnCont li.clearFav { font-size: 15px; }
+.multiCarousel .carVisualizer .pLevel form { display: inline-block; vertical-align: middle; width: 140px;}
+.multiCarousel .carVisualizer .pLevel .dropdownButton { width: 140px; height: 30px;;}
+.multiCarousel .carVisualizer .pLevel .dropdownButton button { top: 2px; width: 140px; font-size: 14px; height: 30px; box-shadow: none; padding: 5px 20px 10px 0;}
+.multiCarousel .carVisualizer .pLevel .dropdownButton button:after { height: 20px; top: 0px;}
+.multiCarousel .carVisualizer .pLevel .mapPricing { display: block; font-size: 13px;}
+
+/* Almost done Page */
+
+.almost-done-blk .almost-done-border-blks-ul li { font-size: 14px; line-height: 24px; margin: 20px 0; border-left: 5px solid #cecece; padding: 0 20px; float: left; width: 100%; }
+.almost-done-blk .almost-done-border-blks-ul li h4 { font-family: gibson; font-size: 18px; line-height: 24px; font-weight: normal; }
+.almost-done-blk .almost-done-border-blks-ul li .pad-1-4 h4{ padding-left: 8px; }
+.almost-done-blk .almost-done-border-blks-ul li .radiobutton-bk div radiobutton { float: left; margin-right: 14px; }
+.almost-done-blk .almost-done-border-blks-ul li .radiobutton-bk div { padding: 8px 0px; }
+.almost-done-blk .almost-done-border-blks-ul li .radiobutton-bk div:last-child { padding-bottom: 6px; }
+.almost-done-blk .almost-done-border-blks-ul li .radiobutton-bk div sbold { display: table-cell; padding: 2px 0px 0px; font-size: 18px; }
+.almost-done-blk .almost-done-border-blks-ul li .radiobutton-bk div span {display: table; line-height: 16px;}
+
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul { padding: 3px 0px 0px; clear: both; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li { margin: 11px 8px; border: 1px solid #cecece; max-width: 440px; width: 47.8%; padding: 16px 13px 12px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li checkbox { float: left; margin-right: 10px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt { font-family: gibson; font-size: 16px; line-height: 24px; display: table-cell; width: 500px; max-width: 100%; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt .select-sets-rgt-l { float: left; width: 53.7%; max-width: 201px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt h3 { font-family: gibson; font-weight: 500; font-size: 16px; line-height: 18px; text-transform: uppercase; padding-bottom: 2px; margin-top: -2px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt .steelWheelAcknowledge h3 { text-transform: none; padding-bottom: 0px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt .steelWheelAcknowledge p { font-family: gibson; margin-top: 10px; margin-bottom: 0px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt sbold { font-size: 16px; }
+.almost-done-blk .almost-done-border-blks-ul li .select-sets-ul li .select-sets-rgt .select-sets-rgt-r { float: right; width: 44.9%; max-width: 168px; max-height: 74px; margin-top: -7px; overflow: hidden; text-align: center; }
+.almost-done-blk .contentSubHeader { font-family: aleo; }
+
+.pad-1-4 { .padding-left: 4px; }
+
+.almost-done-blk h4 { text-transform: none; margin: 15px 0px; }
+
+.headerBannerSelectOption { width: 100%; height: 100%; overflow: hidden; position: relative; }
+.headerBannerSelectOption img { width: 100%; } 
+.radiobutton-bk .indent { margin-left: 40px; }
+
+
+.almost-done-blk button {
+    margin-right: 15px;
+}
+
+
+
+/* Wheel Visualizer Changes PN3751 */
+
+.colorPicker{
+    background: transparent url("/images/css_elements/vehicleNav/copyColor.png") no-repeat scroll left top;
+    display: inline;
+    float: left;
+    height: 26px;
+    margin: 2px 3px 0 0;
+    position: relative;
+    width: 35px;
+}
+
+.colorPicker:after {
+    border-right: 1px solid #9c9c9c;
+    content: "";
+    float: right;
+    height: 22px;
+    margin-left: 12px;
+    margin-top: 2px;
+}
+.colorPicker {
+    float: right;
+    margin-right: 12px;
+    margin-top: 0;
+}
+
+/* Replace this with the styles in place on Product Search */
+.compContainer .multiCarousel {
+    background: url("/images/css_elements/retail/wheel_visualizer/carRotatorBgNew.jpg") repeat scroll 0 0;
+    box-sizing: border-box;
+    float: left;
+    height: 100%;
+    margin-top: 10px;
+    max-height: 480px;
+    padding: 10px 20px;
+    width: 100%;
+}
+
+/* Replace this with the styles in place on Product Search */
+.OffersAvailable-tab a:before {
+    background: url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -40px -1589px;
+    content: "";
+    height: 18px;
+    left: 14px;
+    position: absolute;
+    top: 14px;
+    width: 20px;
+}
+
+#OffersAvailable a {
+    float: right;
+    font-size: 12px;
+    padding-left: 0;
+    padding-right: 5px;
+    padding-top: 7px;
+    position: relative;
+    text-align: right;
+    width: 110px;
+}
+
+#vehicleContainerLarge #OffersAvailableLarge a {
+    float: right;
+    font-size: 12px;
+    padding-left: 0;
+    padding-right: 5px;
+    padding-top: 7px;
+    position: relative;
+    text-align: right;
+    width: 110px;
+}
+
+
+
+
+
+ul.social {
+    margin-top: -3px;
+}
+
+
+
+#vehcViewLarge .multiCarouselLarge {
+    background: url("/images/css_elements/retail/wheel_visualizer/carRotatorBg_xl.jpg") repeat scroll 0 0;
+    margin-top: 0;
+    min-height: 602px;
+    box-sizing: border-box;
+    float:left;
+    height: 100%;
+    max-height: 408px;
+    padding: 10px 1.25% 1.25%;
+    width:100%;
+}
+
+
+/* Large Visualizer Changes PN3751 */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#vehcViewLarge .multiCarousel .carDetLarge {
+    float: right;
+    margin: 15px 2.5% 0;
+    position: relative;
+    width: 95%;
+}
+
+
+#vehcViewLarge .multiCarousel .carDetLarge h2 .pdpLinks {
+    font-size: 34px;
+    line-height: 30px;
+}
+
+.compContainer .multiCarousel .carDetLarge h2 .pdpLinks {
+    font-family: gibson; font-weight: 700;
+    text-transform: uppercase;
+}
+
+#selectedWheelLinkLarge > span {
+    line-height: 6px;
+}
+
+.compContainer .multiCarousel .carDetLarge h2 a:hover * {
+    text-decoration: none !important;
+    color: #2E7993;
+}
+
+.compContainer .multiCarousel .carDetLarge h2 a {
+    color: #19170d;
+}OffersAvailable-tab
+
+.compContainer .multiCarousel .carDetLarge h2 a:hover * {
+    color: #2E7993;
+    text-decoration: none;
+}
+
+ replace same class in Product Search
+.WVtabbedPanelsLarge {
+    margin: 0 auto;
+    width: 800px;
+}
+
+#visualizerPrices .crossedOut {
+	color: #878684;
+	margin-bottom: 5px;
+    text-decoration: line-through;
+}
+
+#visualizerMAPSpan {
+    font-size: 12px;
+    font-family: gibson;
+    margin-left: 4px;
+}
+
+#vof {
+    font-size: 12px;
+    margin-right: 0;
+    width: 134px;
+}
+
+#vof checkbox {
+    border: medium none;
+}
+
+#visualizerPricesLarge {
+	font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 820px;
+}
+
+ .WVtabbedPanelsLarge {
+    margin: 0 auto;
+    width: 820px;
+}
+
+.pHead .moreInfoBuy {
+	float:right;
+}
+
+.wheelCompareWrapper .WVtabbedPanels {
+    width: 700px;
+    margin: 0 auto;
+}
+
+#wheelCompareTile0 .carouselFave {
+    display: inline-block;
+	vertical-align: middle;
+    font-family: gibson; font-weight: 500;
+}
+
+.wheelCompareWrapper .carouselFave {
+    display: inline-block;
+	vertical-align: middle;
+    font-family: gibson; font-weight: 500;
+}
+
+.wheelCompareWrapper .right checkbox {
+    display: inline-block;
+    margin-left: 6px;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.crossedOut {
+    color: #878684;
+    margin-bottom: 5px;
+    text-decoration: line-through;
+}
+
+
+
+
+#visualizerPrices .currency {
+    font-family: gibson;
+    font-size: 10px;
+    line-height: 18px;
+    vertical-align: top;
+}
+
+#visualizerPricesLarge .currency {
+    font-family: gibson;
+    font-size: 10px;
+    line-height: 14px;
+    vertical-align: top;
+}
+
+.pHead .currency {
+    font-family: gibson;
+    font-size: 10px;
+    vertical-align: top;
+}
+
+.visualizerPriceSpan {
+    font-family: gibson; font-weight: 500;
+}
+
+.visualizerPriceSpan {
+    font-family: gibson; font-weight: 500;
+}
+
+.moreInfoBuy > a {
+    font-family: gibson;
+    font-size: 12px;
+}
+
+#visualizerPricesLarge > span {
+    font-family: gibson; font-weight: 500;
+}
+
+#vehcViewLarge .multiCarousel .moreInfoBuy a {
+    font-size: 14px;
+}
+
+#viewOnlyFavoritesLarge {
+    font-size: 14px;
+    margin-left: 6px;
+}
+
+.visualizerPricesCompare {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.visualizerPricesCompare .moreInfoBuy a {
+    font-size: 13px;
+}
+
+#wheelCompareTile1 .prodBrand {
+    line-height: 9px;
+}
+
+#vof > a:hover {
+    text-decoration: underline;
+}
+
+#vof > a:focus {
+    text-decoration: none;
+}
+
+#viewOnlyFavoritesLarge > a:focus {
+    text-decoration: none;
+}
+
+#viewOnlyFavoritesLarge > a:hover {
+    text-decoration: underline;
+}
+
+#selectedWheelLinkContainerLarge a:hover {
+    text-decoration: none;
+}
+
+#visualizerMAPSpanLarge {
+    font-family: gibson !important;
+    font-size: 14px;
+    margin-left: 4px;
+}
+
+#OffersAvailable {
+    float:right;
+}
+
+#OffersAvailableLarge {
+    float:right;
+}
+
+/* PN1223 - Mounting Direction if Less Than 4 */
+
+.VehicleInstallation{
+	display: inline-block;
+	width: 104px;
+	height:202px;
+}
+
+.VehicleInstallation svg{
+	width: 104px;
+}
+
+.checkboxvehicle .VehicleInstallation{
+	display: inline-block;
+	height: 100%;
+	width: 77px;
+}
+
+#installLocationModal .checkboxleft{
+	margin-left: 45px;
+}
+
+.checkboxvehicle{
+	margin: 0 auto;
+	width: 181px;
+}
+
+.checkboxtop{
+	margin-top: 20px;
+}
+
+.checkboxbottom{
+	margin-top: 90px;
+	margin-bottom: 25px;
+}
+
+.checkboxleft{
+	width: 40px;
+	display: inline-block;
+}
+
+.checkboxright{
+	width: 40px;
+	display: inline-block;
+	margin-left: 17px;
+}
+
+.installationpositionsmodalbuttons{
+	display: inline-block;
+	text-align: right;
+	width: 100%;
+	margin-top: 25px;
+}
+
+#vehiclesvg{
+	width: 108px;
+	height: 204px;
+	padding:0;
+}
+
+#svgObject{
+	position: relative;
+	padding: 0;
+	width: 104px;
+	height: 202px;
+}
+
+.checkboxvehicle #vehiclesvg{
+	display: inline-block;
+	height: 150px;
+	width: 77px;
+}
+
+.shipmentDetails .details-wrapper .pdtDetails .installationlocation::before{
+	content: "";
+	height: 26px;
+	left: 0;
+	position: absolute;
+	top: 14px;
+	width: 24px;
+}
+
+.shipmentDetails .details-wrapper .pdtDetails .row.plan.installationlocation{
+	text-indent: 0;
+}
+
+.rhpCoverage::before{
+	background: rgba(0, 0, 0, 0) url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -16px -1142px;
+	content: "";
+	height: 26px;
+	left: 0;
+	position: absolute;
+	top: 12px;
+	width: 24px;
+}
+
+.installationPositions{
+	border-bottom: 1px solid #EAEAEA;
+	font-size: 16px;
+	line-height: 40px;
+}
+
+.installationPositions > a{
+	margin-left: 3px;
+	font-size: 14px;
+}
+/* End PN1223. */
+
+/* Test Optional Button Styling - PN5375 */
+
+button.org-equi-size {width:430px;height:54px;margin:5px 10px 15px 10px;text-align:left;padding: 0px 0px 0px 15px;}
+button.org-equi-size .buttonDiameter {
+	font-size:30px;
+	margin-top:22px;
+	height:32px;
+}
+button.org-equi-size .buttonDiameter, .buttonInches, .buttonDivider, .buttonSize, .buttonTwoSizes {
+	float:left;
+}
+button.org-equi-size .buttonInches, .buttonDivider, .buttonSize, .buttonTwoSizes {
+	margin-right:15px;
+}
+button.org-equi-size .buttonInches {
+	height:40px;
+	margin-top:14px;
+}
+button.org-equi-size .buttonDivider {
+	width:1px;
+	height:29px;
+	margin-top:13px;
+	background:url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll 0px -684px transparent; /* Needs to be replaced with proper directory */
+}
+button.org-equi-size .buttonSize {
+	margin-top:22px;
+}
+button.org-equi-size .buttonTwoSizes {
+	margin-top:16px;
+}
+button.org-equi-size .buttonSizePosition {
+	font-size:12px;
+	font-family:gibson; 
+	
+}
+button.org-equi-size .buttonCarrot {
+	float:right;
+	margin-right:15px;
+	margin-top:18px;
+	width:11px;
+	height:18px;
+	background:url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll -13px -684px transparent;
+}
+
+/* PN3963 TDG */
+#filterSection .toTDGFromResults {
+  float:left;
+  margin-top:7px;
+  font-family:gibson; font-weight: 500;
+  font-size:16px;
+}
+
+.tdg .resultsContainer {
+    padding-bottom: 0;
+}
+
+.rightRail {
+    float: right;
+    margin-top: 50px;
+}
+
+.tdg #mainHeader .mainWrapper h1 {
+    display: inline-block;
+    width: 460px;
+}
+
+.tdg .mainWrapper a.redGreater {
+    display: inline-block;
+    margin-top: 2px;
+}
+
+.tdgResults {
+    width: 760px;
+}
+
+.tdg h5 {
+    float: left;
+    margin: 15px 0 15px;
+}
+
+.weRecommend {
+    background: #eaeaea;
+    padding: 15px 15px 5px;
+    margin: 0 0 25px;
+}
+
+.weRecommend p {
+    margin: 0;
+    padding: 0 0 10px;
+    font-family: gibson;
+}
+
+.weRecommend strong {
+    font-family: gibson; font-weight: 500;
+}
+
+.tdg .importantNoteSearch {
+    padding: 0 0 5px;
+}
+
+.tdgresulthead > div > p {
+    margin: 0 0 0 15px;
+    font-size: 12px;
+    position: relative;
+}
+
+#openPerfThird {
+    padding-bottom: 15px;
+}
+
+#openPerfSecond {
+    padding-bottom: 5px;
+}
+
+#closePerfThirdList, #closePerfSecondList {
+    padding-bottom: 1px;
+}
+
+.tdgresulthead strong {
+    font-family: gibson; font-weight: 500;
+}
+
+.tdgresulthead strong span {
+    font-family: gibson;
+}
+
+.tdg .tdgresulthead > div > p > a {
+    font-family: gibson; font-weight: 500;
+    font-size: 16px;
+    margin: 0 0 0 28px
+}
+
+.tdgresulthead p + p {
+    margin: 5px 0 0;
+}
+
+.tdgresulthead h6 {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+.tdg .tdgResultsMore {
+    margin: 20px 0;
+}
+
+.tdg .tdgresulthead .compareBtn, .tdg .tdgresulthead #compareTiresLink {
+    margin: -6px 15px 0 0;
+}
+
+.tdg .tdgResultsMore strong {
+    font-family: gibson; font-weight: 500;
+}
+
+.tdgresulthead .resultsContainer {
+    margin: 0 0 20px;
+}
+
+.tdg .importantNoteSearch hr {
+    clear:none;
+}
+
+#openPerfSecond:before, #openPerfThird:before, #closePerfSecondList:before, #closePerfThirdList:before {
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    opacity: .8;
+    filter: alpha(opacity=80);
+    border-radius: 5px;
+    position: absolute;
+    cursor: pointer;
+    left: 0;
+    top: 0;
+}
+
+#openPerfSecond:after, #openPerfThird:after, #closePerfSecondList:after, #closePerfThirdList:after {
+    content: "+";
+    display: block;
+    font-size: 20px;
+    font-family: aleo;
+    font-weight: 700;
+    z-index: 4;
+    text-align: center;
+    width: 20px;
+    position: absolute;
+    cursor: pointer;
+    left: 0;
+    top: 0;
+}
+
+#closePerfSecondList:after, #closePerfThirdList:after {
+    content: "-";
+}
+
+/** Top Three Tires **/
+.allTitle h1 {font-size:38px}
+.allTitle h2 span, .allTitle h1 span{color:#d70000;}
+.topThreeListing{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-ms-flex-wrap:no-wrap;flex-wrap:no-wrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;margin:24px 0 56px;}
+.topCat{display:table-cell;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:no-wrap;flex-wrap:no-wrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;border-left:1px solid #eaeaea;-webkit-box-flex:1;-ms-flex:1 1 0%;flex:1 1 0%;padding:12px 36px 24px;}
+.topCat:first-child{border-left:0;padding-left:0;}
+.topCat:last-child{padding-right:0;}
+.topCatHeader{line-height:52px;text-align:center;}
+.topCatHeader h3{font-size:26px;line-height:24px;vertical-align:middle;display:inline-block;}
+.topCatDesc .topImage {height:270px;overflow:hidden;background-color:#000;}
+.topCatDesc .topImage img{max-height:95%;margin:auto;position:absolute;left:0;right:0;top:0;bottom:0;}
+.topCatDesc span.catBrand{display:inline-block;font-family:gibson; font-size:13px;line-height:14px;margin:-2px 0 1px;text-align:left;text-transform:uppercase;color:#19170D;width:100%;}
+.topCatDesc span.catBrand span{font-family:gibson; font-weight: 700;font-size:20px;line-height:22px;float:none;}
+.topCatDesc .specialProdLabels{margin-bottom:0;position:absolute;top:6px;left:8px;z-index:1}
+.topProdImg{position:relative;max-width:100%;width:100%;margin:10px 0;}
+.topCatDesc .tireCat{font-size:14px;line-height:16px;font-family:gibson; }
+.topCatDesc .productRating{line-height:36px;}
+.topCatPrice{padding:10px 0;width:100%;}
+.topCatPrice .prodPrice{font-family:gibson; font-weight: 700;font-size:26px;float:none;padding-top:0;width:auto;margin-right:5px;line-height:26px;max-width:unset;}
+.topCatPrice .mapPrice{width:70%;}
+.topCatPrice .mapPrice a{width:100%;}
+.topCatPrice li::after{content:"";display:table;clear:both;}
+.topCat .addToCart{margin-top:24px;}
+.topCat .aTC::before{left:80px;}
+
+/** PN6831 AB Testing **/
+.topThreeCat:not(.enablePN6255) .topThreeListing{display:none;}  
+.enablePN6255 + #allTitle{display:none;}
+
+/** All Tires Header **/
+.allTitle{display:block;width:1020px;margin:48px auto 36px;background-color:#fff;text-align:left;}
+.allTitle span{color:#d70000;}
+
+/** To Tire Decision Guide **/
+.toTDG{text-align:left;margin:30px 0;background-color:#ffffff;}
+.prodWrapper .toTDG{display:flex; padding:20px 0; margin:0}
+.toTDG img{height:140px;margin:0;display:inline-block;clear:both;vertical-align:top;width:auto;}
+.toTDG_Desc{width:auto;display:inline-block;margin-left:30px;text-align:left;vertical-align:top;}
+.toTDG_Desc h2{font-size:26px;}
+.toTDG_Desc p{font-size:14px;line-height: 18px;margin:12px 0}
+
+/** To Customer Pick Up **/
+#resultsCPU { margin-bottom: 20px;}
+.toCPU { padding: 7px 0; margin: 0; background: #ffffff; text-align: left;}
+.toCPU img { height: 82px; margin: 0 20px; display: inline-block; clear: both; vertical-align: middle; width: auto;}
+.toCPU_Desc { width: auto; display: inline-block; text-align: left; vertical-align: middle; padding: 14px 0;}
+.toCPU_Desc h2 {font-size: 21px; margin: 0 !important; color:#19170D}
+.toCPU_Desc h2 span {color: #d70000;}
+.toCPU_Desc p { margin: 6px 0; line-height: 10px; font-size: 14px;}
+.toCPU a.redGreater::after {line-height: 0 !important;}
+
+/* PN7282 - Styles for rebate section with 3 or more rebates on search results. */
+a.seeOffers {
+	font-size:15px;
+	font-family:gibson; font-weight: 500;
+}
+
+.offerLinkContainer {
+	position:relative;
+	margin-left:33px;
+	float:left;
+}
+
+.offerLinkContainer:before {
+	background:#fff url("/images/css_elements/retail/icon-sprite.png") no-repeat scroll 0 -1043px;
+	content:"";
+	height:27px;
+	width:38px;
+	margin:-2px -40px;
+	left:0;
+	position:absolute;
+}
+
+.tdgPromotion .toTDG {
+    display: flex;
+    padding: 20px;
+}
+
+.WinterPromotionMarginTop {
+    margin-top: 40px;
+}
+
+.winterPromotion .toTDG {
+    display: flex;
+    padding: 20px;
+}
+
+.winterPromotion .redHeadline {
+    color: #d70000;
+}
+
+.winterPromotion .prodWrapper .toTDG {
+    padding: 20px 20px;
+}
